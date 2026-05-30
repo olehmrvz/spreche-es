@@ -28,7 +28,17 @@ function fontSize(width: number, ratio: number) {
   return Math.round(width * ratio);
 }
 
-function wrapText(text: string, maxChars: number) {
+function getTitleSize(width: number, title: string) {
+  const cleanLength = title.replaceAll(" ", "").length;
+  const base = fontSize(width, 0.105);
+  if (cleanLength <= 10) return base;
+  if (cleanLength <= 13) return fontSize(width, 0.092);
+  if (cleanLength <= 16) return fontSize(width, 0.078);
+  if (cleanLength <= 20) return fontSize(width, 0.066);
+  return fontSize(width, 0.058);
+}
+
+function wrapText(text: string, maxChars: number, maxLines = 3) {
   const words = text.split(" ");
   const lines: string[] = [];
   let line = "";
@@ -42,7 +52,7 @@ function wrapText(text: string, maxChars: number) {
     }
   }
   if (line) lines.push(line);
-  return lines.slice(0, 3);
+  return lines.slice(0, maxLines);
 }
 
 function textLines(lines: string[], x: number, y: number, size: number, color: string, weight = 400, lineHeight = 1.35) {
@@ -54,14 +64,18 @@ function textLines(lines: string[], x: number, y: number, size: number, color: s
 export async function renderWallpaperPng({ width, height, word, dateKey, theme }: RenderOptions) {
   const pad = Math.round(width * 0.09);
   const title = [word.article, word.de_word].filter(Boolean).join(" ");
-  const titleSize = fontSize(width, 0.105);
-  const ruSize = fontSize(width, 0.055);
+  const titleSize = getTitleSize(width, title);
+  const ruSize = fontSize(width, title.length > 16 ? 0.047 : 0.052);
   const ipaSize = fontSize(width, 0.035);
   const exampleSize = fontSize(width, 0.045);
   const exampleRuSize = fontSize(width, 0.036);
 
-  const centerY = Math.round(height * 0.38);
-  const cardY = Math.round(centerY + height * 0.19);
+  const centerY = Math.round(height * 0.34);
+  const translationMaxChars = title.length > 16 ? 24 : 28;
+  const translationLines = wrapText(word.ru_translation, translationMaxChars, 2);
+  const translationBlockH = translationLines.length * ruSize * 1.24;
+  const ipaY = centerY + 105 + titleSize * 1.18 + translationBlockH + 18;
+  const cardY = Math.round(ipaY + (word.ipa_optional ? ipaSize * 1.4 : 0) + height * 0.075);
   const cardPad = Math.round(width * 0.035);
   const cardW = width - pad * 2;
   const formLines = word.forms
@@ -71,8 +85,8 @@ export async function renderWallpaperPng({ width, height, word, dateKey, theme }
         `Perfekt: ${word.forms.perfekt}`,
       ]
     : [];
-  const exampleLines = wrapText(word.example_de, 30);
-  const exampleRuLines = word.example_ru_optional ? wrapText(word.example_ru_optional, 36) : [];
+  const exampleLines = wrapText(word.example_de, 34, 3);
+  const exampleRuLines = word.example_ru_optional ? wrapText(word.example_ru_optional, 38, 2) : [];
   const formBlockH = formLines.length ? formLines.length * exampleRuSize * 1.35 + 24 : 0;
   const cardH = Math.round(cardPad * 2 + formBlockH + exampleLines.length * exampleSize * 1.35 + exampleRuLines.length * exampleRuSize * 1.35 + 28);
 
@@ -83,9 +97,9 @@ export async function renderWallpaperPng({ width, height, word, dateKey, theme }
     <circle cx="${Math.round(width * 0.86)}" cy="${Math.round(height * 0.16)}" r="${Math.round(width * 0.42)}" fill="${theme.accent}" opacity="0.07"/>
 
     <rect x="${pad}" y="${centerY}" width="64" height="6" rx="3" fill="${theme.accent}"/>
-    <text x="${pad}" y="${centerY + 105}" font-family="Noto Sans" font-size="${titleSize}" font-weight="700" fill="${theme.text}" letter-spacing="-2">${escapeHtml(title)}</text>
-    <text x="${pad}" y="${centerY + 105 + titleSize * 1.15}" font-family="Noto Sans" font-size="${ruSize}" font-weight="700" fill="${theme.muted}">${escapeHtml(word.ru_translation)}</text>
-    ${word.ipa_optional ? `<text x="${pad}" y="${centerY + 105 + titleSize * 1.15 + ruSize * 1.25}" font-family="Noto Sans" font-size="${ipaSize}" fill="${theme.subtle}">[${escapeHtml(word.ipa_optional)}]</text>` : ""}
+    <text x="${pad}" y="${centerY + 105}" font-family="Noto Sans" font-size="${titleSize}" font-weight="700" fill="${theme.text}" letter-spacing="-1.5">${escapeHtml(title)}</text>
+    ${textLines(translationLines, pad, centerY + 105 + titleSize * 1.18, ruSize, theme.muted, 700, 1.24)}
+    ${word.ipa_optional ? `<text x="${pad}" y="${ipaY}" font-family="Noto Sans" font-size="${ipaSize}" fill="${theme.subtle}">[${escapeHtml(word.ipa_optional)}]</text>` : ""}
 
     <rect x="${pad}" y="${cardY}" width="${cardW}" height="${cardH}" rx="32" fill="${theme.panel}"/>
     <g>
