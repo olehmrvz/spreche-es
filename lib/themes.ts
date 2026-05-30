@@ -17,10 +17,10 @@ export const THEMES = {
   },
   oled: {
     bg: "#000000",
-    panel: "#080808",
+    panel: "#101010",
     text: "#f5f5f5",
-    muted: "#b8b8b8",
-    subtle: "#737373",
+    muted: "#c2c2c2",
+    subtle: "#8a8a8a",
     accent: "#ff7a2f",
   },
 } as const;

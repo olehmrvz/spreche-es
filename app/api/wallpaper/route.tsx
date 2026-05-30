@@ -14,6 +14,7 @@ export async function GET(req: NextRequest) {
   const themeKey = params.get("theme") || "dark";
   const theme = getTheme(themeKey);
   const seed = "global";
+  const designVersion = "3";
   const track = safeTrack(params.get("track") || params.get("level"));
 
   const { word, dateKey } = getWordOfDay(seed, track);
@@ -27,14 +28,14 @@ export async function GET(req: NextRequest) {
 
   const etag = crypto
     .createHash("sha256")
-    .update(`${dateKey}:${seed}:${track}:${word.id}:${size.width}:${size.height}:${themeKey}`)
+    .update(`${designVersion}:${dateKey}:${seed}:${track}:${word.id}:${size.width}:${size.height}:${themeKey}`)
     .digest("hex");
 
   if (req.headers.get("if-none-match") === `"${etag}"`) {
     return new Response(null, {
       status: 304,
       headers: {
-        "Cache-Control": "public, max-age=3600, stale-while-revalidate=86400",
+        "Cache-Control": "public, max-age=300, stale-while-revalidate=3600",
         ETag: `"${etag}"`,
       },
     });
@@ -44,10 +45,11 @@ export async function GET(req: NextRequest) {
     status: 200,
     headers: {
       "Content-Type": "image/png",
-      "Cache-Control": "public, max-age=3600, stale-while-revalidate=86400",
+      "Cache-Control": "public, max-age=300, stale-while-revalidate=3600",
       ETag: `"${etag}"`,
       "X-Wallpaper-Date": dateKey,
       "X-Wallpaper-Word": word.id,
+      "X-Design-Version": designVersion,
     },
   });
 }
