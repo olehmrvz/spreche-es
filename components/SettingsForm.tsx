@@ -3,18 +3,20 @@
 import { useMemo, useState } from "react";
 import { DEVICES } from "@/lib/devices";
 import { THEMES } from "@/lib/themes";
+import { TRACKS } from "@/lib/words";
 
 export function SettingsForm() {
   const [device, setDevice] = useState("iphone_16_pro");
   const [theme, setTheme] = useState("dark");
+  const [track, setTrack] = useState("A1");
   const [tz, setTz] = useState("Europe/Moscow");
   const [copied, setCopied] = useState(false);
 
   const url = useMemo(() => {
-    const p = new URLSearchParams({ device, theme, tz });
+    const p = new URLSearchParams({ device, theme, track, tz });
     const origin = typeof window === "undefined" ? "" : window.location.origin;
     return `${origin}/api/wallpaper?${p.toString()}`;
-  }, [device, theme, tz]);
+  }, [device, theme, track, tz]);
 
   async function copy() {
     await navigator.clipboard.writeText(url);
@@ -37,6 +39,12 @@ export function SettingsForm() {
           <label>Тема</label>
           <select value={theme} onChange={(e) => setTheme(e.target.value)}>
             {Object.keys(THEMES).map((key) => <option key={key} value={key}>{key}</option>)}
+          </select>
+        </div>
+        <div>
+          <label>Уровень</label>
+          <select value={track} onChange={(e) => setTrack(e.target.value)}>
+            {TRACKS.map((item) => <option key={item.value} value={item.value}>{item.label}</option>)}
           </select>
         </div>
         <div>

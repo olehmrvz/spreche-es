@@ -3,7 +3,7 @@ import crypto from "node:crypto";
 import { getSize } from "@/lib/devices";
 import { getTheme } from "@/lib/themes";
 import { safeTimeZone } from "@/lib/date";
-import { getWordOfDay } from "@/lib/words";
+import { getWordOfDay, safeTrack } from "@/lib/words";
 import { renderWallpaperPng } from "@/lib/image";
 
 export const runtime = "nodejs";
@@ -16,8 +16,9 @@ export async function GET(req: NextRequest) {
   const theme = getTheme(themeKey);
   const timeZone = safeTimeZone(params.get("tz"));
   const seed = "global";
+  const track = safeTrack(params.get("track") || params.get("level"));
 
-  const { word, dateKey } = getWordOfDay(timeZone, seed);
+  const { word, dateKey } = getWordOfDay(timeZone, seed, track);
   const png = await renderWallpaperPng({
     width: size.width,
     height: size.height,
@@ -28,7 +29,7 @@ export async function GET(req: NextRequest) {
 
   const etag = crypto
     .createHash("sha256")
-    .update(`${dateKey}:${seed}:${word.id}:${size.width}:${size.height}:${themeKey}`)
+    .update(`${dateKey}:${seed}:${track}:${word.id}:${size.width}:${size.height}:${themeKey}`)
     .digest("hex");
 
   if (req.headers.get("if-none-match") === `"${etag}"`) {

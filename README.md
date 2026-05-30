@@ -14,7 +14,17 @@ Open `http://localhost:3000`.
 PNG endpoint:
 
 ```txt
-/api/wallpaper?device=iphone_16_pro&theme=dark&tz=Europe/Moscow
+/api/wallpaper?device=iphone_16_pro&theme=dark&track=A1&tz=Europe/Moscow
+
+Tracks:
+
+- `A1`
+- `A2`
+- `B1`
+- `B2`
+- `C1`
+- `C2`
+- `VERBS`
 ```
 
 ## Word data

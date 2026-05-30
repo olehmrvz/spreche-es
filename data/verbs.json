@@ -1,0 +1,6937 @@
+[
+  {
+    "id": "verb-001-sein",
+    "de_word": "sein",
+    "article": "",
+    "ru_translation": "быть",
+    "example_de": "Ich möchte das Verb \"sein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "sein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-002-haben",
+    "de_word": "haben",
+    "article": "",
+    "ru_translation": "иметь",
+    "example_de": "Ich möchte das Verb \"haben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "haben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-003-werden",
+    "de_word": "werden",
+    "article": "",
+    "ru_translation": "становиться",
+    "example_de": "Ich möchte das Verb \"werden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "werden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-004-gehen",
+    "de_word": "gehen",
+    "article": "",
+    "ru_translation": "идти",
+    "example_de": "Ich möchte das Verb \"gehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "gehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-005-kommen",
+    "de_word": "kommen",
+    "article": "",
+    "ru_translation": "приходить",
+    "example_de": "Ich möchte das Verb \"kommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "kommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-006-machen",
+    "de_word": "machen",
+    "article": "",
+    "ru_translation": "делать",
+    "example_de": "Ich möchte das Verb \"machen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "machen",
+      "praesens": "macht",
+      "praeteritum": "machte",
+      "perfekt": "hat gemacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-007-sagen",
+    "de_word": "sagen",
+    "article": "",
+    "ru_translation": "говорить",
+    "example_de": "Ich möchte das Verb \"sagen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "sagen",
+      "praesens": "sagt",
+      "praeteritum": "sagte",
+      "perfekt": "hat gesagt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-008-sehen",
+    "de_word": "sehen",
+    "article": "",
+    "ru_translation": "видеть",
+    "example_de": "Ich möchte das Verb \"sehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "sehen",
+      "praesens": "sieht",
+      "praeteritum": "sah",
+      "perfekt": "hat gesehen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-009-geben",
+    "de_word": "geben",
+    "article": "",
+    "ru_translation": "давать",
+    "example_de": "Ich möchte das Verb \"geben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "geben",
+      "praesens": "gibt",
+      "praeteritum": "gab",
+      "perfekt": "hat gegeben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-010-nehmen",
+    "de_word": "nehmen",
+    "article": "",
+    "ru_translation": "брать",
+    "example_de": "Ich möchte das Verb \"nehmen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nehmen",
+      "praesens": "nimmt",
+      "praeteritum": "nahm",
+      "perfekt": "hat genommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-011-finden",
+    "de_word": "finden",
+    "article": "",
+    "ru_translation": "находить",
+    "example_de": "Ich möchte das Verb \"finden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "finden",
+      "praesens": "findet",
+      "praeteritum": "fand",
+      "perfekt": "hat gefunden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-012-bleiben",
+    "de_word": "bleiben",
+    "article": "",
+    "ru_translation": "оставаться",
+    "example_de": "Ich möchte das Verb \"bleiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "bleiben",
+      "praesens": "bleibt",
+      "praeteritum": "blieb",
+      "perfekt": "ist geblieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-013-liegen",
+    "de_word": "liegen",
+    "article": "",
+    "ru_translation": "лежать",
+    "example_de": "Ich möchte das Verb \"liegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "liegen",
+      "praesens": "liegt",
+      "praeteritum": "lag",
+      "perfekt": "hat gelegen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-014-stehen",
+    "de_word": "stehen",
+    "article": "",
+    "ru_translation": "стоять",
+    "example_de": "Ich möchte das Verb \"stehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "stehen",
+      "praesens": "steht",
+      "praeteritum": "stand",
+      "perfekt": "hat gestanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-015-denken",
+    "de_word": "denken",
+    "article": "",
+    "ru_translation": "думать",
+    "example_de": "Ich möchte das Verb \"denken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "denken",
+      "praesens": "denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-016-wissen",
+    "de_word": "wissen",
+    "article": "",
+    "ru_translation": "знать",
+    "example_de": "Ich möchte das Verb \"wissen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "wissen",
+      "praesens": "weiß",
+      "praeteritum": "wusste",
+      "perfekt": "hat gewusst"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-017-sprechen",
+    "de_word": "sprechen",
+    "article": "",
+    "ru_translation": "говорить",
+    "example_de": "Ich möchte das Verb \"sprechen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "sprechen",
+      "praesens": "spricht",
+      "praeteritum": "sprach",
+      "perfekt": "hat gesprochen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-018-lesen",
+    "de_word": "lesen",
+    "article": "",
+    "ru_translation": "читать",
+    "example_de": "Ich möchte das Verb \"lesen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "lesen",
+      "praesens": "liest",
+      "praeteritum": "las",
+      "perfekt": "hat gelesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-019-schreiben",
+    "de_word": "schreiben",
+    "article": "",
+    "ru_translation": "писать",
+    "example_de": "Ich möchte das Verb \"schreiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "schreiben",
+      "praesens": "schreibt",
+      "praeteritum": "schrieb",
+      "perfekt": "hat geschrieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-020-arbeiten",
+    "de_word": "arbeiten",
+    "article": "",
+    "ru_translation": "работать",
+    "example_de": "Ich möchte das Verb \"arbeiten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "arbeiten",
+      "praesens": "arbeitet",
+      "praeteritum": "arbeitete",
+      "perfekt": "hat gearbeitet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-021-lernen",
+    "de_word": "lernen",
+    "article": "",
+    "ru_translation": "учить",
+    "example_de": "Ich möchte das Verb \"lernen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "lernen",
+      "praesens": "lernt",
+      "praeteritum": "lernte",
+      "perfekt": "hat gelernt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-022-verstehen",
+    "de_word": "verstehen",
+    "article": "",
+    "ru_translation": "понимать",
+    "example_de": "Ich möchte das Verb \"verstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "verstehen",
+      "praesens": "versteht",
+      "praeteritum": "verstand",
+      "perfekt": "hat verstanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-023-fragen",
+    "de_word": "fragen",
+    "article": "",
+    "ru_translation": "спрашивать",
+    "example_de": "Ich möchte das Verb \"fragen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "fragen",
+      "praesens": "fragt",
+      "praeteritum": "fragte",
+      "perfekt": "hat gefragt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-024-antworten",
+    "de_word": "antworten",
+    "article": "",
+    "ru_translation": "отвечать",
+    "example_de": "Ich möchte das Verb \"antworten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "antworten",
+      "praesens": "antwortet",
+      "praeteritum": "antwortete",
+      "perfekt": "hat geantwortet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-025-helfen",
+    "de_word": "helfen",
+    "article": "",
+    "ru_translation": "помогать",
+    "example_de": "Ich möchte das Verb \"helfen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "helfen",
+      "praesens": "hilft",
+      "praeteritum": "half",
+      "perfekt": "hat geholfen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-026-kaufen",
+    "de_word": "kaufen",
+    "article": "",
+    "ru_translation": "покупать",
+    "example_de": "Ich möchte das Verb \"kaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "kaufen",
+      "praesens": "kauft",
+      "praeteritum": "kaufte",
+      "perfekt": "hat gekauft"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-027-bezahlen",
+    "de_word": "bezahlen",
+    "article": "",
+    "ru_translation": "платить",
+    "example_de": "Ich möchte das Verb \"bezahlen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "bezahlen",
+      "praesens": "bezahlt",
+      "praeteritum": "bezahlte",
+      "perfekt": "hat bezahlt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-028-fahren",
+    "de_word": "fahren",
+    "article": "",
+    "ru_translation": "ехать",
+    "example_de": "Ich möchte das Verb \"fahren\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "fahren",
+      "praesens": "fährt",
+      "praeteritum": "fuhr",
+      "perfekt": "ist gefahren"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-029-fliegen",
+    "de_word": "fliegen",
+    "article": "",
+    "ru_translation": "лететь",
+    "example_de": "Ich möchte das Verb \"fliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "fliegen",
+      "praesens": "fliegt",
+      "praeteritum": "flog",
+      "perfekt": "ist geflogen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-030-laufen",
+    "de_word": "laufen",
+    "article": "",
+    "ru_translation": "бежать",
+    "example_de": "Ich möchte das Verb \"laufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "laufen",
+      "praesens": "läuft",
+      "praeteritum": "lief",
+      "perfekt": "ist gelaufen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-031-essen",
+    "de_word": "essen",
+    "article": "",
+    "ru_translation": "есть",
+    "example_de": "Ich möchte das Verb \"essen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "essen",
+      "praesens": "isst",
+      "praeteritum": "aß",
+      "perfekt": "hat gegessen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-032-trinken",
+    "de_word": "trinken",
+    "article": "",
+    "ru_translation": "пить",
+    "example_de": "Ich möchte das Verb \"trinken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "trinken",
+      "praesens": "trinkt",
+      "praeteritum": "trank",
+      "perfekt": "hat getrunken"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-033-schlafen",
+    "de_word": "schlafen",
+    "article": "",
+    "ru_translation": "спать",
+    "example_de": "Ich möchte das Verb \"schlafen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "schlafen",
+      "praesens": "schläft",
+      "praeteritum": "schlief",
+      "perfekt": "hat geschlafen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-034-warten",
+    "de_word": "warten",
+    "article": "",
+    "ru_translation": "ждать",
+    "example_de": "Ich möchte das Verb \"warten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "warten",
+      "praesens": "wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-035-öffnen",
+    "de_word": "öffnen",
+    "article": "",
+    "ru_translation": "открывать",
+    "example_de": "Ich möchte das Verb \"öffnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "öffnen",
+      "praesens": "öffnet",
+      "praeteritum": "öffnete",
+      "perfekt": "hat geöffnet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-036-schließen",
+    "de_word": "schließen",
+    "article": "",
+    "ru_translation": "закрывать",
+    "example_de": "Ich möchte das Verb \"schließen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "schließen",
+      "praesens": "schließt",
+      "praeteritum": "schloss",
+      "perfekt": "hat geschlossen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-037-beginnen",
+    "de_word": "beginnen",
+    "article": "",
+    "ru_translation": "начинать",
+    "example_de": "Ich möchte das Verb \"beginnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "beginnen",
+      "praesens": "beginnt",
+      "praeteritum": "begann",
+      "perfekt": "hat begonnen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-038-enden",
+    "de_word": "enden",
+    "article": "",
+    "ru_translation": "заканчиваться",
+    "example_de": "Ich möchte das Verb \"enden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "enden",
+      "praesens": "endet",
+      "praeteritum": "endete",
+      "perfekt": "hat geendet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-039-erzählen",
+    "de_word": "erzählen",
+    "article": "",
+    "ru_translation": "рассказывать",
+    "example_de": "Ich möchte das Verb \"erzählen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "erzählen",
+      "praesens": "erzählt",
+      "praeteritum": "erzählte",
+      "perfekt": "hat erzählt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-040-erklären",
+    "de_word": "erklären",
+    "article": "",
+    "ru_translation": "объяснять",
+    "example_de": "Ich möchte das Verb \"erklären\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "erklären",
+      "praesens": "erklärt",
+      "praeteritum": "erklärte",
+      "perfekt": "hat erklärt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-041-ansein",
+    "de_word": "ansein",
+    "article": "",
+    "ru_translation": "быть / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"ansein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ansein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-042-anhaben",
+    "de_word": "anhaben",
+    "article": "",
+    "ru_translation": "иметь / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anhaben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anhaben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-043-anwerden",
+    "de_word": "anwerden",
+    "article": "",
+    "ru_translation": "становиться / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anwerden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anwerden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-044-angehen",
+    "de_word": "angehen",
+    "article": "",
+    "ru_translation": "идти / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"angehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "angehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-045-ankommen",
+    "de_word": "ankommen",
+    "article": "",
+    "ru_translation": "приходить / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"ankommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ankommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-046-anmachen",
+    "de_word": "anmachen",
+    "article": "",
+    "ru_translation": "делать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anmachen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anmachen",
+      "praesens": "macht",
+      "praeteritum": "machte",
+      "perfekt": "hat gemacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-047-ansagen",
+    "de_word": "ansagen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"ansagen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ansagen",
+      "praesens": "sagt",
+      "praeteritum": "sagte",
+      "perfekt": "hat gesagt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-048-ansehen",
+    "de_word": "ansehen",
+    "article": "",
+    "ru_translation": "видеть / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"ansehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ansehen",
+      "praesens": "sieht",
+      "praeteritum": "sah",
+      "perfekt": "hat gesehen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-049-angeben",
+    "de_word": "angeben",
+    "article": "",
+    "ru_translation": "давать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"angeben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "angeben",
+      "praesens": "gibt",
+      "praeteritum": "gab",
+      "perfekt": "hat gegeben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-050-annehmen",
+    "de_word": "annehmen",
+    "article": "",
+    "ru_translation": "брать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"annehmen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "annehmen",
+      "praesens": "nimmt",
+      "praeteritum": "nahm",
+      "perfekt": "hat genommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-051-anfinden",
+    "de_word": "anfinden",
+    "article": "",
+    "ru_translation": "находить / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anfinden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anfinden",
+      "praesens": "findet",
+      "praeteritum": "fand",
+      "perfekt": "hat gefunden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-052-anbleiben",
+    "de_word": "anbleiben",
+    "article": "",
+    "ru_translation": "оставаться / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anbleiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anbleiben",
+      "praesens": "bleibt",
+      "praeteritum": "blieb",
+      "perfekt": "ist geblieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-053-anliegen",
+    "de_word": "anliegen",
+    "article": "",
+    "ru_translation": "лежать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anliegen",
+      "praesens": "liegt",
+      "praeteritum": "lag",
+      "perfekt": "hat gelegen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-054-anstehen",
+    "de_word": "anstehen",
+    "article": "",
+    "ru_translation": "стоять / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anstehen",
+      "praesens": "steht",
+      "praeteritum": "stand",
+      "perfekt": "hat gestanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-055-andenken",
+    "de_word": "andenken",
+    "article": "",
+    "ru_translation": "думать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"andenken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "andenken",
+      "praesens": "denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-056-anwissen",
+    "de_word": "anwissen",
+    "article": "",
+    "ru_translation": "знать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anwissen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anwissen",
+      "praesens": "weiß",
+      "praeteritum": "wusste",
+      "perfekt": "hat gewusst"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-057-ansprechen",
+    "de_word": "ansprechen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"ansprechen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ansprechen",
+      "praesens": "spricht",
+      "praeteritum": "sprach",
+      "perfekt": "hat gesprochen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-058-anlesen",
+    "de_word": "anlesen",
+    "article": "",
+    "ru_translation": "читать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anlesen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anlesen",
+      "praesens": "liest",
+      "praeteritum": "las",
+      "perfekt": "hat gelesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-059-anschreiben",
+    "de_word": "anschreiben",
+    "article": "",
+    "ru_translation": "писать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anschreiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anschreiben",
+      "praesens": "schreibt",
+      "praeteritum": "schrieb",
+      "perfekt": "hat geschrieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-060-anarbeiten",
+    "de_word": "anarbeiten",
+    "article": "",
+    "ru_translation": "работать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anarbeiten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anarbeiten",
+      "praesens": "arbeitet",
+      "praeteritum": "arbeitete",
+      "perfekt": "hat gearbeitet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-061-anlernen",
+    "de_word": "anlernen",
+    "article": "",
+    "ru_translation": "учить / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anlernen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anlernen",
+      "praesens": "lernt",
+      "praeteritum": "lernte",
+      "perfekt": "hat gelernt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-062-anverstehen",
+    "de_word": "anverstehen",
+    "article": "",
+    "ru_translation": "понимать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anverstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anverstehen",
+      "praesens": "versteht",
+      "praeteritum": "verstand",
+      "perfekt": "hat verstanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-063-anfragen",
+    "de_word": "anfragen",
+    "article": "",
+    "ru_translation": "спрашивать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anfragen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anfragen",
+      "praesens": "fragt",
+      "praeteritum": "fragte",
+      "perfekt": "hat gefragt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-064-anantworten",
+    "de_word": "anantworten",
+    "article": "",
+    "ru_translation": "отвечать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anantworten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anantworten",
+      "praesens": "antwortet",
+      "praeteritum": "antwortete",
+      "perfekt": "hat geantwortet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-065-anhelfen",
+    "de_word": "anhelfen",
+    "article": "",
+    "ru_translation": "помогать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anhelfen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anhelfen",
+      "praesens": "hilft",
+      "praeteritum": "half",
+      "perfekt": "hat geholfen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-066-ankaufen",
+    "de_word": "ankaufen",
+    "article": "",
+    "ru_translation": "покупать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"ankaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ankaufen",
+      "praesens": "kauft",
+      "praeteritum": "kaufte",
+      "perfekt": "hat gekauft"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-067-anbezahlen",
+    "de_word": "anbezahlen",
+    "article": "",
+    "ru_translation": "платить / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anbezahlen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anbezahlen",
+      "praesens": "bezahlt",
+      "praeteritum": "bezahlte",
+      "perfekt": "hat bezahlt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-068-anfahren",
+    "de_word": "anfahren",
+    "article": "",
+    "ru_translation": "ехать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anfahren\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anfahren",
+      "praesens": "fährt",
+      "praeteritum": "fuhr",
+      "perfekt": "ist gefahren"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-069-anfliegen",
+    "de_word": "anfliegen",
+    "article": "",
+    "ru_translation": "лететь / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anfliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anfliegen",
+      "praesens": "fliegt",
+      "praeteritum": "flog",
+      "perfekt": "ist geflogen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-070-anlaufen",
+    "de_word": "anlaufen",
+    "article": "",
+    "ru_translation": "бежать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anlaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anlaufen",
+      "praesens": "läuft",
+      "praeteritum": "lief",
+      "perfekt": "ist gelaufen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-071-anessen",
+    "de_word": "anessen",
+    "article": "",
+    "ru_translation": "есть / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anessen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anessen",
+      "praesens": "isst",
+      "praeteritum": "aß",
+      "perfekt": "hat gegessen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-072-antrinken",
+    "de_word": "antrinken",
+    "article": "",
+    "ru_translation": "пить / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"antrinken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "antrinken",
+      "praesens": "trinkt",
+      "praeteritum": "trank",
+      "perfekt": "hat getrunken"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-073-anschlafen",
+    "de_word": "anschlafen",
+    "article": "",
+    "ru_translation": "спать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anschlafen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anschlafen",
+      "praesens": "schläft",
+      "praeteritum": "schlief",
+      "perfekt": "hat geschlafen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-074-anwarten",
+    "de_word": "anwarten",
+    "article": "",
+    "ru_translation": "ждать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anwarten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anwarten",
+      "praesens": "wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-075-anöffnen",
+    "de_word": "anöffnen",
+    "article": "",
+    "ru_translation": "открывать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anöffnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anöffnen",
+      "praesens": "öffnet",
+      "praeteritum": "öffnete",
+      "perfekt": "hat geöffnet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-076-anschließen",
+    "de_word": "anschließen",
+    "article": "",
+    "ru_translation": "закрывать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anschließen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anschließen",
+      "praesens": "schließt",
+      "praeteritum": "schloss",
+      "perfekt": "hat geschlossen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-077-anbeginnen",
+    "de_word": "anbeginnen",
+    "article": "",
+    "ru_translation": "начинать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anbeginnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anbeginnen",
+      "praesens": "beginnt",
+      "praeteritum": "begann",
+      "perfekt": "hat begonnen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-078-anenden",
+    "de_word": "anenden",
+    "article": "",
+    "ru_translation": "заканчиваться / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anenden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anenden",
+      "praesens": "endet",
+      "praeteritum": "endete",
+      "perfekt": "hat geendet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-079-anerzählen",
+    "de_word": "anerzählen",
+    "article": "",
+    "ru_translation": "рассказывать / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anerzählen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anerzählen",
+      "praesens": "erzählt",
+      "praeteritum": "erzählte",
+      "perfekt": "hat erzählt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-080-anerklären",
+    "de_word": "anerklären",
+    "article": "",
+    "ru_translation": "объяснять / вариант с приставкой an",
+    "example_de": "Ich möchte das Verb \"anerklären\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "anerklären",
+      "praesens": "erklärt",
+      "praeteritum": "erklärte",
+      "perfekt": "hat erklärt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-081-aufsein",
+    "de_word": "aufsein",
+    "article": "",
+    "ru_translation": "быть / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufsein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufsein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-082-aufhaben",
+    "de_word": "aufhaben",
+    "article": "",
+    "ru_translation": "иметь / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufhaben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufhaben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-083-aufwerden",
+    "de_word": "aufwerden",
+    "article": "",
+    "ru_translation": "становиться / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufwerden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufwerden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-084-aufgehen",
+    "de_word": "aufgehen",
+    "article": "",
+    "ru_translation": "идти / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufgehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufgehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-085-aufkommen",
+    "de_word": "aufkommen",
+    "article": "",
+    "ru_translation": "приходить / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufkommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufkommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-086-aufmachen",
+    "de_word": "aufmachen",
+    "article": "",
+    "ru_translation": "делать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufmachen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufmachen",
+      "praesens": "macht",
+      "praeteritum": "machte",
+      "perfekt": "hat gemacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-087-aufsagen",
+    "de_word": "aufsagen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufsagen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufsagen",
+      "praesens": "sagt",
+      "praeteritum": "sagte",
+      "perfekt": "hat gesagt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-088-aufsehen",
+    "de_word": "aufsehen",
+    "article": "",
+    "ru_translation": "видеть / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufsehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufsehen",
+      "praesens": "sieht",
+      "praeteritum": "sah",
+      "perfekt": "hat gesehen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-089-aufgeben",
+    "de_word": "aufgeben",
+    "article": "",
+    "ru_translation": "давать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufgeben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufgeben",
+      "praesens": "gibt",
+      "praeteritum": "gab",
+      "perfekt": "hat gegeben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-090-aufnehmen",
+    "de_word": "aufnehmen",
+    "article": "",
+    "ru_translation": "брать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufnehmen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufnehmen",
+      "praesens": "nimmt",
+      "praeteritum": "nahm",
+      "perfekt": "hat genommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-091-auffinden",
+    "de_word": "auffinden",
+    "article": "",
+    "ru_translation": "находить / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auffinden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auffinden",
+      "praesens": "findet",
+      "praeteritum": "fand",
+      "perfekt": "hat gefunden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-092-aufbleiben",
+    "de_word": "aufbleiben",
+    "article": "",
+    "ru_translation": "оставаться / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufbleiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufbleiben",
+      "praesens": "bleibt",
+      "praeteritum": "blieb",
+      "perfekt": "ist geblieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-093-aufliegen",
+    "de_word": "aufliegen",
+    "article": "",
+    "ru_translation": "лежать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufliegen",
+      "praesens": "liegt",
+      "praeteritum": "lag",
+      "perfekt": "hat gelegen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-094-aufstehen",
+    "de_word": "aufstehen",
+    "article": "",
+    "ru_translation": "стоять / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufstehen",
+      "praesens": "steht",
+      "praeteritum": "stand",
+      "perfekt": "hat gestanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-095-aufdenken",
+    "de_word": "aufdenken",
+    "article": "",
+    "ru_translation": "думать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufdenken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufdenken",
+      "praesens": "denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-096-aufwissen",
+    "de_word": "aufwissen",
+    "article": "",
+    "ru_translation": "знать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufwissen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufwissen",
+      "praesens": "weiß",
+      "praeteritum": "wusste",
+      "perfekt": "hat gewusst"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-097-aufsprechen",
+    "de_word": "aufsprechen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufsprechen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufsprechen",
+      "praesens": "spricht",
+      "praeteritum": "sprach",
+      "perfekt": "hat gesprochen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-098-auflesen",
+    "de_word": "auflesen",
+    "article": "",
+    "ru_translation": "читать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auflesen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auflesen",
+      "praesens": "liest",
+      "praeteritum": "las",
+      "perfekt": "hat gelesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-099-aufschreiben",
+    "de_word": "aufschreiben",
+    "article": "",
+    "ru_translation": "писать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufschreiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufschreiben",
+      "praesens": "schreibt",
+      "praeteritum": "schrieb",
+      "perfekt": "hat geschrieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-100-aufarbeiten",
+    "de_word": "aufarbeiten",
+    "article": "",
+    "ru_translation": "работать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufarbeiten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufarbeiten",
+      "praesens": "arbeitet",
+      "praeteritum": "arbeitete",
+      "perfekt": "hat gearbeitet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-101-auflernen",
+    "de_word": "auflernen",
+    "article": "",
+    "ru_translation": "учить / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auflernen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auflernen",
+      "praesens": "lernt",
+      "praeteritum": "lernte",
+      "perfekt": "hat gelernt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-102-aufverstehen",
+    "de_word": "aufverstehen",
+    "article": "",
+    "ru_translation": "понимать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufverstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufverstehen",
+      "praesens": "versteht",
+      "praeteritum": "verstand",
+      "perfekt": "hat verstanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-103-auffragen",
+    "de_word": "auffragen",
+    "article": "",
+    "ru_translation": "спрашивать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auffragen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auffragen",
+      "praesens": "fragt",
+      "praeteritum": "fragte",
+      "perfekt": "hat gefragt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-104-aufantworten",
+    "de_word": "aufantworten",
+    "article": "",
+    "ru_translation": "отвечать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufantworten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufantworten",
+      "praesens": "antwortet",
+      "praeteritum": "antwortete",
+      "perfekt": "hat geantwortet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-105-aufhelfen",
+    "de_word": "aufhelfen",
+    "article": "",
+    "ru_translation": "помогать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufhelfen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufhelfen",
+      "praesens": "hilft",
+      "praeteritum": "half",
+      "perfekt": "hat geholfen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-106-aufkaufen",
+    "de_word": "aufkaufen",
+    "article": "",
+    "ru_translation": "покупать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufkaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufkaufen",
+      "praesens": "kauft",
+      "praeteritum": "kaufte",
+      "perfekt": "hat gekauft"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-107-aufbezahlen",
+    "de_word": "aufbezahlen",
+    "article": "",
+    "ru_translation": "платить / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufbezahlen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufbezahlen",
+      "praesens": "bezahlt",
+      "praeteritum": "bezahlte",
+      "perfekt": "hat bezahlt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-108-auffahren",
+    "de_word": "auffahren",
+    "article": "",
+    "ru_translation": "ехать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auffahren\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auffahren",
+      "praesens": "fährt",
+      "praeteritum": "fuhr",
+      "perfekt": "ist gefahren"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-109-auffliegen",
+    "de_word": "auffliegen",
+    "article": "",
+    "ru_translation": "лететь / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auffliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auffliegen",
+      "praesens": "fliegt",
+      "praeteritum": "flog",
+      "perfekt": "ist geflogen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-110-auflaufen",
+    "de_word": "auflaufen",
+    "article": "",
+    "ru_translation": "бежать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auflaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auflaufen",
+      "praesens": "läuft",
+      "praeteritum": "lief",
+      "perfekt": "ist gelaufen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-111-aufessen",
+    "de_word": "aufessen",
+    "article": "",
+    "ru_translation": "есть / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufessen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufessen",
+      "praesens": "isst",
+      "praeteritum": "aß",
+      "perfekt": "hat gegessen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-112-auftrinken",
+    "de_word": "auftrinken",
+    "article": "",
+    "ru_translation": "пить / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auftrinken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auftrinken",
+      "praesens": "trinkt",
+      "praeteritum": "trank",
+      "perfekt": "hat getrunken"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-113-aufschlafen",
+    "de_word": "aufschlafen",
+    "article": "",
+    "ru_translation": "спать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufschlafen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufschlafen",
+      "praesens": "schläft",
+      "praeteritum": "schlief",
+      "perfekt": "hat geschlafen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-114-aufwarten",
+    "de_word": "aufwarten",
+    "article": "",
+    "ru_translation": "ждать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufwarten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufwarten",
+      "praesens": "wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-115-auföffnen",
+    "de_word": "auföffnen",
+    "article": "",
+    "ru_translation": "открывать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auföffnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auföffnen",
+      "praesens": "öffnet",
+      "praeteritum": "öffnete",
+      "perfekt": "hat geöffnet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-116-aufschließen",
+    "de_word": "aufschließen",
+    "article": "",
+    "ru_translation": "закрывать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufschließen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufschließen",
+      "praesens": "schließt",
+      "praeteritum": "schloss",
+      "perfekt": "hat geschlossen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-117-aufbeginnen",
+    "de_word": "aufbeginnen",
+    "article": "",
+    "ru_translation": "начинать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufbeginnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufbeginnen",
+      "praesens": "beginnt",
+      "praeteritum": "begann",
+      "perfekt": "hat begonnen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-118-aufenden",
+    "de_word": "aufenden",
+    "article": "",
+    "ru_translation": "заканчиваться / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"aufenden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aufenden",
+      "praesens": "endet",
+      "praeteritum": "endete",
+      "perfekt": "hat geendet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-119-auferzählen",
+    "de_word": "auferzählen",
+    "article": "",
+    "ru_translation": "рассказывать / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auferzählen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auferzählen",
+      "praesens": "erzählt",
+      "praeteritum": "erzählte",
+      "perfekt": "hat erzählt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-120-auferklären",
+    "de_word": "auferklären",
+    "article": "",
+    "ru_translation": "объяснять / вариант с приставкой auf",
+    "example_de": "Ich möchte das Verb \"auferklären\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auferklären",
+      "praesens": "erklärt",
+      "praeteritum": "erklärte",
+      "perfekt": "hat erklärt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-121-aussein",
+    "de_word": "aussein",
+    "article": "",
+    "ru_translation": "быть / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"aussein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aussein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-122-aushaben",
+    "de_word": "aushaben",
+    "article": "",
+    "ru_translation": "иметь / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"aushaben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aushaben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-123-auswerden",
+    "de_word": "auswerden",
+    "article": "",
+    "ru_translation": "становиться / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auswerden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auswerden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-124-ausgehen",
+    "de_word": "ausgehen",
+    "article": "",
+    "ru_translation": "идти / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausgehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausgehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-125-auskommen",
+    "de_word": "auskommen",
+    "article": "",
+    "ru_translation": "приходить / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auskommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auskommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-126-ausmachen",
+    "de_word": "ausmachen",
+    "article": "",
+    "ru_translation": "делать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausmachen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausmachen",
+      "praesens": "macht",
+      "praeteritum": "machte",
+      "perfekt": "hat gemacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-127-aussagen",
+    "de_word": "aussagen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"aussagen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aussagen",
+      "praesens": "sagt",
+      "praeteritum": "sagte",
+      "perfekt": "hat gesagt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-128-aussehen",
+    "de_word": "aussehen",
+    "article": "",
+    "ru_translation": "видеть / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"aussehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aussehen",
+      "praesens": "sieht",
+      "praeteritum": "sah",
+      "perfekt": "hat gesehen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-129-ausgeben",
+    "de_word": "ausgeben",
+    "article": "",
+    "ru_translation": "давать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausgeben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausgeben",
+      "praesens": "gibt",
+      "praeteritum": "gab",
+      "perfekt": "hat gegeben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-130-ausnehmen",
+    "de_word": "ausnehmen",
+    "article": "",
+    "ru_translation": "брать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausnehmen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausnehmen",
+      "praesens": "nimmt",
+      "praeteritum": "nahm",
+      "perfekt": "hat genommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-131-ausfinden",
+    "de_word": "ausfinden",
+    "article": "",
+    "ru_translation": "находить / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausfinden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausfinden",
+      "praesens": "findet",
+      "praeteritum": "fand",
+      "perfekt": "hat gefunden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-132-ausbleiben",
+    "de_word": "ausbleiben",
+    "article": "",
+    "ru_translation": "оставаться / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausbleiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausbleiben",
+      "praesens": "bleibt",
+      "praeteritum": "blieb",
+      "perfekt": "ist geblieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-133-ausliegen",
+    "de_word": "ausliegen",
+    "article": "",
+    "ru_translation": "лежать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausliegen",
+      "praesens": "liegt",
+      "praeteritum": "lag",
+      "perfekt": "hat gelegen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-134-ausstehen",
+    "de_word": "ausstehen",
+    "article": "",
+    "ru_translation": "стоять / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausstehen",
+      "praesens": "steht",
+      "praeteritum": "stand",
+      "perfekt": "hat gestanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-135-ausdenken",
+    "de_word": "ausdenken",
+    "article": "",
+    "ru_translation": "думать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausdenken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausdenken",
+      "praesens": "denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-136-auswissen",
+    "de_word": "auswissen",
+    "article": "",
+    "ru_translation": "знать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auswissen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auswissen",
+      "praesens": "weiß",
+      "praeteritum": "wusste",
+      "perfekt": "hat gewusst"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-137-aussprechen",
+    "de_word": "aussprechen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"aussprechen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aussprechen",
+      "praesens": "spricht",
+      "praeteritum": "sprach",
+      "perfekt": "hat gesprochen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-138-auslesen",
+    "de_word": "auslesen",
+    "article": "",
+    "ru_translation": "читать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auslesen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auslesen",
+      "praesens": "liest",
+      "praeteritum": "las",
+      "perfekt": "hat gelesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-139-ausschreiben",
+    "de_word": "ausschreiben",
+    "article": "",
+    "ru_translation": "писать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausschreiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausschreiben",
+      "praesens": "schreibt",
+      "praeteritum": "schrieb",
+      "perfekt": "hat geschrieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-140-ausarbeiten",
+    "de_word": "ausarbeiten",
+    "article": "",
+    "ru_translation": "работать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausarbeiten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausarbeiten",
+      "praesens": "arbeitet",
+      "praeteritum": "arbeitete",
+      "perfekt": "hat gearbeitet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-141-auslernen",
+    "de_word": "auslernen",
+    "article": "",
+    "ru_translation": "учить / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auslernen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auslernen",
+      "praesens": "lernt",
+      "praeteritum": "lernte",
+      "perfekt": "hat gelernt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-142-ausverstehen",
+    "de_word": "ausverstehen",
+    "article": "",
+    "ru_translation": "понимать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausverstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausverstehen",
+      "praesens": "versteht",
+      "praeteritum": "verstand",
+      "perfekt": "hat verstanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-143-ausfragen",
+    "de_word": "ausfragen",
+    "article": "",
+    "ru_translation": "спрашивать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausfragen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausfragen",
+      "praesens": "fragt",
+      "praeteritum": "fragte",
+      "perfekt": "hat gefragt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-144-ausantworten",
+    "de_word": "ausantworten",
+    "article": "",
+    "ru_translation": "отвечать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausantworten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausantworten",
+      "praesens": "antwortet",
+      "praeteritum": "antwortete",
+      "perfekt": "hat geantwortet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-145-aushelfen",
+    "de_word": "aushelfen",
+    "article": "",
+    "ru_translation": "помогать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"aushelfen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "aushelfen",
+      "praesens": "hilft",
+      "praeteritum": "half",
+      "perfekt": "hat geholfen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-146-auskaufen",
+    "de_word": "auskaufen",
+    "article": "",
+    "ru_translation": "покупать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auskaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auskaufen",
+      "praesens": "kauft",
+      "praeteritum": "kaufte",
+      "perfekt": "hat gekauft"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-147-ausbezahlen",
+    "de_word": "ausbezahlen",
+    "article": "",
+    "ru_translation": "платить / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausbezahlen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausbezahlen",
+      "praesens": "bezahlt",
+      "praeteritum": "bezahlte",
+      "perfekt": "hat bezahlt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-148-ausfahren",
+    "de_word": "ausfahren",
+    "article": "",
+    "ru_translation": "ехать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausfahren\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausfahren",
+      "praesens": "fährt",
+      "praeteritum": "fuhr",
+      "perfekt": "ist gefahren"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-149-ausfliegen",
+    "de_word": "ausfliegen",
+    "article": "",
+    "ru_translation": "лететь / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausfliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausfliegen",
+      "praesens": "fliegt",
+      "praeteritum": "flog",
+      "perfekt": "ist geflogen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-150-auslaufen",
+    "de_word": "auslaufen",
+    "article": "",
+    "ru_translation": "бежать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auslaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auslaufen",
+      "praesens": "läuft",
+      "praeteritum": "lief",
+      "perfekt": "ist gelaufen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-151-ausessen",
+    "de_word": "ausessen",
+    "article": "",
+    "ru_translation": "есть / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausessen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausessen",
+      "praesens": "isst",
+      "praeteritum": "aß",
+      "perfekt": "hat gegessen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-152-austrinken",
+    "de_word": "austrinken",
+    "article": "",
+    "ru_translation": "пить / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"austrinken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "austrinken",
+      "praesens": "trinkt",
+      "praeteritum": "trank",
+      "perfekt": "hat getrunken"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-153-ausschlafen",
+    "de_word": "ausschlafen",
+    "article": "",
+    "ru_translation": "спать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausschlafen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausschlafen",
+      "praesens": "schläft",
+      "praeteritum": "schlief",
+      "perfekt": "hat geschlafen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-154-auswarten",
+    "de_word": "auswarten",
+    "article": "",
+    "ru_translation": "ждать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auswarten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auswarten",
+      "praesens": "wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-155-ausöffnen",
+    "de_word": "ausöffnen",
+    "article": "",
+    "ru_translation": "открывать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausöffnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausöffnen",
+      "praesens": "öffnet",
+      "praeteritum": "öffnete",
+      "perfekt": "hat geöffnet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-156-ausschließen",
+    "de_word": "ausschließen",
+    "article": "",
+    "ru_translation": "закрывать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausschließen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausschließen",
+      "praesens": "schließt",
+      "praeteritum": "schloss",
+      "perfekt": "hat geschlossen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-157-ausbeginnen",
+    "de_word": "ausbeginnen",
+    "article": "",
+    "ru_translation": "начинать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausbeginnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausbeginnen",
+      "praesens": "beginnt",
+      "praeteritum": "begann",
+      "perfekt": "hat begonnen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-158-ausenden",
+    "de_word": "ausenden",
+    "article": "",
+    "ru_translation": "заканчиваться / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"ausenden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "ausenden",
+      "praesens": "endet",
+      "praeteritum": "endete",
+      "perfekt": "hat geendet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-159-auserzählen",
+    "de_word": "auserzählen",
+    "article": "",
+    "ru_translation": "рассказывать / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auserzählen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auserzählen",
+      "praesens": "erzählt",
+      "praeteritum": "erzählte",
+      "perfekt": "hat erzählt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-160-auserklären",
+    "de_word": "auserklären",
+    "article": "",
+    "ru_translation": "объяснять / вариант с приставкой aus",
+    "example_de": "Ich möchte das Verb \"auserklären\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "auserklären",
+      "praesens": "erklärt",
+      "praeteritum": "erklärte",
+      "perfekt": "hat erklärt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-161-einsein",
+    "de_word": "einsein",
+    "article": "",
+    "ru_translation": "быть / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einsein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einsein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-162-einhaben",
+    "de_word": "einhaben",
+    "article": "",
+    "ru_translation": "иметь / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einhaben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einhaben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-163-einwerden",
+    "de_word": "einwerden",
+    "article": "",
+    "ru_translation": "становиться / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einwerden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einwerden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-164-eingehen",
+    "de_word": "eingehen",
+    "article": "",
+    "ru_translation": "идти / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"eingehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "eingehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-165-einkommen",
+    "de_word": "einkommen",
+    "article": "",
+    "ru_translation": "приходить / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einkommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einkommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-166-einmachen",
+    "de_word": "einmachen",
+    "article": "",
+    "ru_translation": "делать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einmachen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einmachen",
+      "praesens": "macht",
+      "praeteritum": "machte",
+      "perfekt": "hat gemacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-167-einsagen",
+    "de_word": "einsagen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einsagen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einsagen",
+      "praesens": "sagt",
+      "praeteritum": "sagte",
+      "perfekt": "hat gesagt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-168-einsehen",
+    "de_word": "einsehen",
+    "article": "",
+    "ru_translation": "видеть / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einsehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einsehen",
+      "praesens": "sieht",
+      "praeteritum": "sah",
+      "perfekt": "hat gesehen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-169-eingeben",
+    "de_word": "eingeben",
+    "article": "",
+    "ru_translation": "давать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"eingeben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "eingeben",
+      "praesens": "gibt",
+      "praeteritum": "gab",
+      "perfekt": "hat gegeben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-170-einnehmen",
+    "de_word": "einnehmen",
+    "article": "",
+    "ru_translation": "брать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einnehmen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einnehmen",
+      "praesens": "nimmt",
+      "praeteritum": "nahm",
+      "perfekt": "hat genommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-171-einfinden",
+    "de_word": "einfinden",
+    "article": "",
+    "ru_translation": "находить / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einfinden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einfinden",
+      "praesens": "findet",
+      "praeteritum": "fand",
+      "perfekt": "hat gefunden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-172-einbleiben",
+    "de_word": "einbleiben",
+    "article": "",
+    "ru_translation": "оставаться / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einbleiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einbleiben",
+      "praesens": "bleibt",
+      "praeteritum": "blieb",
+      "perfekt": "ist geblieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-173-einliegen",
+    "de_word": "einliegen",
+    "article": "",
+    "ru_translation": "лежать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einliegen",
+      "praesens": "liegt",
+      "praeteritum": "lag",
+      "perfekt": "hat gelegen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-174-einstehen",
+    "de_word": "einstehen",
+    "article": "",
+    "ru_translation": "стоять / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einstehen",
+      "praesens": "steht",
+      "praeteritum": "stand",
+      "perfekt": "hat gestanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-175-eindenken",
+    "de_word": "eindenken",
+    "article": "",
+    "ru_translation": "думать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"eindenken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "eindenken",
+      "praesens": "denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-176-einwissen",
+    "de_word": "einwissen",
+    "article": "",
+    "ru_translation": "знать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einwissen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einwissen",
+      "praesens": "weiß",
+      "praeteritum": "wusste",
+      "perfekt": "hat gewusst"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-177-einsprechen",
+    "de_word": "einsprechen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einsprechen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einsprechen",
+      "praesens": "spricht",
+      "praeteritum": "sprach",
+      "perfekt": "hat gesprochen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-178-einlesen",
+    "de_word": "einlesen",
+    "article": "",
+    "ru_translation": "читать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einlesen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einlesen",
+      "praesens": "liest",
+      "praeteritum": "las",
+      "perfekt": "hat gelesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-179-einschreiben",
+    "de_word": "einschreiben",
+    "article": "",
+    "ru_translation": "писать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einschreiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einschreiben",
+      "praesens": "schreibt",
+      "praeteritum": "schrieb",
+      "perfekt": "hat geschrieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-180-einarbeiten",
+    "de_word": "einarbeiten",
+    "article": "",
+    "ru_translation": "работать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einarbeiten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einarbeiten",
+      "praesens": "arbeitet",
+      "praeteritum": "arbeitete",
+      "perfekt": "hat gearbeitet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-181-einlernen",
+    "de_word": "einlernen",
+    "article": "",
+    "ru_translation": "учить / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einlernen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einlernen",
+      "praesens": "lernt",
+      "praeteritum": "lernte",
+      "perfekt": "hat gelernt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-182-einverstehen",
+    "de_word": "einverstehen",
+    "article": "",
+    "ru_translation": "понимать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einverstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einverstehen",
+      "praesens": "versteht",
+      "praeteritum": "verstand",
+      "perfekt": "hat verstanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-183-einfragen",
+    "de_word": "einfragen",
+    "article": "",
+    "ru_translation": "спрашивать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einfragen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einfragen",
+      "praesens": "fragt",
+      "praeteritum": "fragte",
+      "perfekt": "hat gefragt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-184-einantworten",
+    "de_word": "einantworten",
+    "article": "",
+    "ru_translation": "отвечать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einantworten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einantworten",
+      "praesens": "antwortet",
+      "praeteritum": "antwortete",
+      "perfekt": "hat geantwortet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-185-einhelfen",
+    "de_word": "einhelfen",
+    "article": "",
+    "ru_translation": "помогать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einhelfen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einhelfen",
+      "praesens": "hilft",
+      "praeteritum": "half",
+      "perfekt": "hat geholfen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-186-einkaufen",
+    "de_word": "einkaufen",
+    "article": "",
+    "ru_translation": "покупать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einkaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einkaufen",
+      "praesens": "kauft",
+      "praeteritum": "kaufte",
+      "perfekt": "hat gekauft"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-187-einbezahlen",
+    "de_word": "einbezahlen",
+    "article": "",
+    "ru_translation": "платить / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einbezahlen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einbezahlen",
+      "praesens": "bezahlt",
+      "praeteritum": "bezahlte",
+      "perfekt": "hat bezahlt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-188-einfahren",
+    "de_word": "einfahren",
+    "article": "",
+    "ru_translation": "ехать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einfahren\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einfahren",
+      "praesens": "fährt",
+      "praeteritum": "fuhr",
+      "perfekt": "ist gefahren"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-189-einfliegen",
+    "de_word": "einfliegen",
+    "article": "",
+    "ru_translation": "лететь / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einfliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einfliegen",
+      "praesens": "fliegt",
+      "praeteritum": "flog",
+      "perfekt": "ist geflogen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-190-einlaufen",
+    "de_word": "einlaufen",
+    "article": "",
+    "ru_translation": "бежать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einlaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einlaufen",
+      "praesens": "läuft",
+      "praeteritum": "lief",
+      "perfekt": "ist gelaufen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-191-einessen",
+    "de_word": "einessen",
+    "article": "",
+    "ru_translation": "есть / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einessen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einessen",
+      "praesens": "isst",
+      "praeteritum": "aß",
+      "perfekt": "hat gegessen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-192-eintrinken",
+    "de_word": "eintrinken",
+    "article": "",
+    "ru_translation": "пить / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"eintrinken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "eintrinken",
+      "praesens": "trinkt",
+      "praeteritum": "trank",
+      "perfekt": "hat getrunken"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-193-einschlafen",
+    "de_word": "einschlafen",
+    "article": "",
+    "ru_translation": "спать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einschlafen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einschlafen",
+      "praesens": "schläft",
+      "praeteritum": "schlief",
+      "perfekt": "hat geschlafen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-194-einwarten",
+    "de_word": "einwarten",
+    "article": "",
+    "ru_translation": "ждать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einwarten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einwarten",
+      "praesens": "wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-195-einöffnen",
+    "de_word": "einöffnen",
+    "article": "",
+    "ru_translation": "открывать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einöffnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einöffnen",
+      "praesens": "öffnet",
+      "praeteritum": "öffnete",
+      "perfekt": "hat geöffnet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-196-einschließen",
+    "de_word": "einschließen",
+    "article": "",
+    "ru_translation": "закрывать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einschließen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einschließen",
+      "praesens": "schließt",
+      "praeteritum": "schloss",
+      "perfekt": "hat geschlossen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-197-einbeginnen",
+    "de_word": "einbeginnen",
+    "article": "",
+    "ru_translation": "начинать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einbeginnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einbeginnen",
+      "praesens": "beginnt",
+      "praeteritum": "begann",
+      "perfekt": "hat begonnen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-198-einenden",
+    "de_word": "einenden",
+    "article": "",
+    "ru_translation": "заканчиваться / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einenden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einenden",
+      "praesens": "endet",
+      "praeteritum": "endete",
+      "perfekt": "hat geendet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-199-einerzählen",
+    "de_word": "einerzählen",
+    "article": "",
+    "ru_translation": "рассказывать / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einerzählen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einerzählen",
+      "praesens": "erzählt",
+      "praeteritum": "erzählte",
+      "perfekt": "hat erzählt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-200-einerklären",
+    "de_word": "einerklären",
+    "article": "",
+    "ru_translation": "объяснять / вариант с приставкой ein",
+    "example_de": "Ich möchte das Verb \"einerklären\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "einerklären",
+      "praesens": "erklärt",
+      "praeteritum": "erklärte",
+      "perfekt": "hat erklärt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-201-mitsein",
+    "de_word": "mitsein",
+    "article": "",
+    "ru_translation": "быть / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitsein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitsein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-202-mithaben",
+    "de_word": "mithaben",
+    "article": "",
+    "ru_translation": "иметь / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mithaben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mithaben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-203-mitwerden",
+    "de_word": "mitwerden",
+    "article": "",
+    "ru_translation": "становиться / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitwerden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitwerden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-204-mitgehen",
+    "de_word": "mitgehen",
+    "article": "",
+    "ru_translation": "идти / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitgehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitgehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-205-mitkommen",
+    "de_word": "mitkommen",
+    "article": "",
+    "ru_translation": "приходить / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitkommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitkommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-206-mitmachen",
+    "de_word": "mitmachen",
+    "article": "",
+    "ru_translation": "делать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitmachen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitmachen",
+      "praesens": "macht",
+      "praeteritum": "machte",
+      "perfekt": "hat gemacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-207-mitsagen",
+    "de_word": "mitsagen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitsagen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitsagen",
+      "praesens": "sagt",
+      "praeteritum": "sagte",
+      "perfekt": "hat gesagt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-208-mitsehen",
+    "de_word": "mitsehen",
+    "article": "",
+    "ru_translation": "видеть / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitsehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitsehen",
+      "praesens": "sieht",
+      "praeteritum": "sah",
+      "perfekt": "hat gesehen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-209-mitgeben",
+    "de_word": "mitgeben",
+    "article": "",
+    "ru_translation": "давать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitgeben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitgeben",
+      "praesens": "gibt",
+      "praeteritum": "gab",
+      "perfekt": "hat gegeben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-210-mitnehmen",
+    "de_word": "mitnehmen",
+    "article": "",
+    "ru_translation": "брать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitnehmen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitnehmen",
+      "praesens": "nimmt",
+      "praeteritum": "nahm",
+      "perfekt": "hat genommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-211-mitfinden",
+    "de_word": "mitfinden",
+    "article": "",
+    "ru_translation": "находить / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitfinden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitfinden",
+      "praesens": "findet",
+      "praeteritum": "fand",
+      "perfekt": "hat gefunden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-212-mitbleiben",
+    "de_word": "mitbleiben",
+    "article": "",
+    "ru_translation": "оставаться / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitbleiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitbleiben",
+      "praesens": "bleibt",
+      "praeteritum": "blieb",
+      "perfekt": "ist geblieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-213-mitliegen",
+    "de_word": "mitliegen",
+    "article": "",
+    "ru_translation": "лежать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitliegen",
+      "praesens": "liegt",
+      "praeteritum": "lag",
+      "perfekt": "hat gelegen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-214-mitstehen",
+    "de_word": "mitstehen",
+    "article": "",
+    "ru_translation": "стоять / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitstehen",
+      "praesens": "steht",
+      "praeteritum": "stand",
+      "perfekt": "hat gestanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-215-mitdenken",
+    "de_word": "mitdenken",
+    "article": "",
+    "ru_translation": "думать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitdenken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitdenken",
+      "praesens": "denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-216-mitwissen",
+    "de_word": "mitwissen",
+    "article": "",
+    "ru_translation": "знать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitwissen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitwissen",
+      "praesens": "weiß",
+      "praeteritum": "wusste",
+      "perfekt": "hat gewusst"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-217-mitsprechen",
+    "de_word": "mitsprechen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitsprechen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitsprechen",
+      "praesens": "spricht",
+      "praeteritum": "sprach",
+      "perfekt": "hat gesprochen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-218-mitlesen",
+    "de_word": "mitlesen",
+    "article": "",
+    "ru_translation": "читать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitlesen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitlesen",
+      "praesens": "liest",
+      "praeteritum": "las",
+      "perfekt": "hat gelesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-219-mitschreiben",
+    "de_word": "mitschreiben",
+    "article": "",
+    "ru_translation": "писать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitschreiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitschreiben",
+      "praesens": "schreibt",
+      "praeteritum": "schrieb",
+      "perfekt": "hat geschrieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-220-mitarbeiten",
+    "de_word": "mitarbeiten",
+    "article": "",
+    "ru_translation": "работать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitarbeiten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitarbeiten",
+      "praesens": "arbeitet",
+      "praeteritum": "arbeitete",
+      "perfekt": "hat gearbeitet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-221-mitlernen",
+    "de_word": "mitlernen",
+    "article": "",
+    "ru_translation": "учить / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitlernen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitlernen",
+      "praesens": "lernt",
+      "praeteritum": "lernte",
+      "perfekt": "hat gelernt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-222-mitverstehen",
+    "de_word": "mitverstehen",
+    "article": "",
+    "ru_translation": "понимать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitverstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitverstehen",
+      "praesens": "versteht",
+      "praeteritum": "verstand",
+      "perfekt": "hat verstanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-223-mitfragen",
+    "de_word": "mitfragen",
+    "article": "",
+    "ru_translation": "спрашивать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitfragen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitfragen",
+      "praesens": "fragt",
+      "praeteritum": "fragte",
+      "perfekt": "hat gefragt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-224-mitantworten",
+    "de_word": "mitantworten",
+    "article": "",
+    "ru_translation": "отвечать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitantworten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitantworten",
+      "praesens": "antwortet",
+      "praeteritum": "antwortete",
+      "perfekt": "hat geantwortet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-225-mithelfen",
+    "de_word": "mithelfen",
+    "article": "",
+    "ru_translation": "помогать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mithelfen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mithelfen",
+      "praesens": "hilft",
+      "praeteritum": "half",
+      "perfekt": "hat geholfen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-226-mitkaufen",
+    "de_word": "mitkaufen",
+    "article": "",
+    "ru_translation": "покупать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitkaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitkaufen",
+      "praesens": "kauft",
+      "praeteritum": "kaufte",
+      "perfekt": "hat gekauft"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-227-mitbezahlen",
+    "de_word": "mitbezahlen",
+    "article": "",
+    "ru_translation": "платить / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitbezahlen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitbezahlen",
+      "praesens": "bezahlt",
+      "praeteritum": "bezahlte",
+      "perfekt": "hat bezahlt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-228-mitfahren",
+    "de_word": "mitfahren",
+    "article": "",
+    "ru_translation": "ехать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitfahren\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitfahren",
+      "praesens": "fährt",
+      "praeteritum": "fuhr",
+      "perfekt": "ist gefahren"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-229-mitfliegen",
+    "de_word": "mitfliegen",
+    "article": "",
+    "ru_translation": "лететь / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitfliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitfliegen",
+      "praesens": "fliegt",
+      "praeteritum": "flog",
+      "perfekt": "ist geflogen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-230-mitlaufen",
+    "de_word": "mitlaufen",
+    "article": "",
+    "ru_translation": "бежать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitlaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitlaufen",
+      "praesens": "läuft",
+      "praeteritum": "lief",
+      "perfekt": "ist gelaufen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-231-mitessen",
+    "de_word": "mitessen",
+    "article": "",
+    "ru_translation": "есть / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitessen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitessen",
+      "praesens": "isst",
+      "praeteritum": "aß",
+      "perfekt": "hat gegessen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-232-mittrinken",
+    "de_word": "mittrinken",
+    "article": "",
+    "ru_translation": "пить / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mittrinken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mittrinken",
+      "praesens": "trinkt",
+      "praeteritum": "trank",
+      "perfekt": "hat getrunken"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-233-mitschlafen",
+    "de_word": "mitschlafen",
+    "article": "",
+    "ru_translation": "спать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitschlafen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitschlafen",
+      "praesens": "schläft",
+      "praeteritum": "schlief",
+      "perfekt": "hat geschlafen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-234-mitwarten",
+    "de_word": "mitwarten",
+    "article": "",
+    "ru_translation": "ждать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitwarten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitwarten",
+      "praesens": "wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-235-mitöffnen",
+    "de_word": "mitöffnen",
+    "article": "",
+    "ru_translation": "открывать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitöffnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitöffnen",
+      "praesens": "öffnet",
+      "praeteritum": "öffnete",
+      "perfekt": "hat geöffnet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-236-mitschließen",
+    "de_word": "mitschließen",
+    "article": "",
+    "ru_translation": "закрывать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitschließen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitschließen",
+      "praesens": "schließt",
+      "praeteritum": "schloss",
+      "perfekt": "hat geschlossen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-237-mitbeginnen",
+    "de_word": "mitbeginnen",
+    "article": "",
+    "ru_translation": "начинать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitbeginnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitbeginnen",
+      "praesens": "beginnt",
+      "praeteritum": "begann",
+      "perfekt": "hat begonnen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-238-mitenden",
+    "de_word": "mitenden",
+    "article": "",
+    "ru_translation": "заканчиваться / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"mitenden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "mitenden",
+      "praesens": "endet",
+      "praeteritum": "endete",
+      "perfekt": "hat geendet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-239-miterzählen",
+    "de_word": "miterzählen",
+    "article": "",
+    "ru_translation": "рассказывать / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"miterzählen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "miterzählen",
+      "praesens": "erzählt",
+      "praeteritum": "erzählte",
+      "perfekt": "hat erzählt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-240-miterklären",
+    "de_word": "miterklären",
+    "article": "",
+    "ru_translation": "объяснять / вариант с приставкой mit",
+    "example_de": "Ich möchte das Verb \"miterklären\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "miterklären",
+      "praesens": "erklärt",
+      "praeteritum": "erklärte",
+      "perfekt": "hat erklärt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-241-nachsein",
+    "de_word": "nachsein",
+    "article": "",
+    "ru_translation": "быть / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachsein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachsein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-242-nachhaben",
+    "de_word": "nachhaben",
+    "article": "",
+    "ru_translation": "иметь / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachhaben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachhaben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-243-nachwerden",
+    "de_word": "nachwerden",
+    "article": "",
+    "ru_translation": "становиться / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachwerden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachwerden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-244-nachgehen",
+    "de_word": "nachgehen",
+    "article": "",
+    "ru_translation": "идти / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachgehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachgehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-245-nachkommen",
+    "de_word": "nachkommen",
+    "article": "",
+    "ru_translation": "приходить / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachkommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachkommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-246-nachmachen",
+    "de_word": "nachmachen",
+    "article": "",
+    "ru_translation": "делать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachmachen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachmachen",
+      "praesens": "macht",
+      "praeteritum": "machte",
+      "perfekt": "hat gemacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-247-nachsagen",
+    "de_word": "nachsagen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachsagen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachsagen",
+      "praesens": "sagt",
+      "praeteritum": "sagte",
+      "perfekt": "hat gesagt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-248-nachsehen",
+    "de_word": "nachsehen",
+    "article": "",
+    "ru_translation": "видеть / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachsehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachsehen",
+      "praesens": "sieht",
+      "praeteritum": "sah",
+      "perfekt": "hat gesehen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-249-nachgeben",
+    "de_word": "nachgeben",
+    "article": "",
+    "ru_translation": "давать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachgeben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachgeben",
+      "praesens": "gibt",
+      "praeteritum": "gab",
+      "perfekt": "hat gegeben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-250-nachnehmen",
+    "de_word": "nachnehmen",
+    "article": "",
+    "ru_translation": "брать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachnehmen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachnehmen",
+      "praesens": "nimmt",
+      "praeteritum": "nahm",
+      "perfekt": "hat genommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-251-nachfinden",
+    "de_word": "nachfinden",
+    "article": "",
+    "ru_translation": "находить / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachfinden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachfinden",
+      "praesens": "findet",
+      "praeteritum": "fand",
+      "perfekt": "hat gefunden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-252-nachbleiben",
+    "de_word": "nachbleiben",
+    "article": "",
+    "ru_translation": "оставаться / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachbleiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachbleiben",
+      "praesens": "bleibt",
+      "praeteritum": "blieb",
+      "perfekt": "ist geblieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-253-nachliegen",
+    "de_word": "nachliegen",
+    "article": "",
+    "ru_translation": "лежать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachliegen",
+      "praesens": "liegt",
+      "praeteritum": "lag",
+      "perfekt": "hat gelegen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-254-nachstehen",
+    "de_word": "nachstehen",
+    "article": "",
+    "ru_translation": "стоять / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachstehen",
+      "praesens": "steht",
+      "praeteritum": "stand",
+      "perfekt": "hat gestanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-255-nachdenken",
+    "de_word": "nachdenken",
+    "article": "",
+    "ru_translation": "думать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachdenken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachdenken",
+      "praesens": "denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-256-nachwissen",
+    "de_word": "nachwissen",
+    "article": "",
+    "ru_translation": "знать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachwissen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachwissen",
+      "praesens": "weiß",
+      "praeteritum": "wusste",
+      "perfekt": "hat gewusst"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-257-nachsprechen",
+    "de_word": "nachsprechen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachsprechen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachsprechen",
+      "praesens": "spricht",
+      "praeteritum": "sprach",
+      "perfekt": "hat gesprochen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-258-nachlesen",
+    "de_word": "nachlesen",
+    "article": "",
+    "ru_translation": "читать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachlesen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachlesen",
+      "praesens": "liest",
+      "praeteritum": "las",
+      "perfekt": "hat gelesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-259-nachschreiben",
+    "de_word": "nachschreiben",
+    "article": "",
+    "ru_translation": "писать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachschreiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachschreiben",
+      "praesens": "schreibt",
+      "praeteritum": "schrieb",
+      "perfekt": "hat geschrieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-260-nacharbeiten",
+    "de_word": "nacharbeiten",
+    "article": "",
+    "ru_translation": "работать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nacharbeiten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nacharbeiten",
+      "praesens": "arbeitet",
+      "praeteritum": "arbeitete",
+      "perfekt": "hat gearbeitet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-261-nachlernen",
+    "de_word": "nachlernen",
+    "article": "",
+    "ru_translation": "учить / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachlernen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachlernen",
+      "praesens": "lernt",
+      "praeteritum": "lernte",
+      "perfekt": "hat gelernt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-262-nachverstehen",
+    "de_word": "nachverstehen",
+    "article": "",
+    "ru_translation": "понимать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachverstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachverstehen",
+      "praesens": "versteht",
+      "praeteritum": "verstand",
+      "perfekt": "hat verstanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-263-nachfragen",
+    "de_word": "nachfragen",
+    "article": "",
+    "ru_translation": "спрашивать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachfragen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachfragen",
+      "praesens": "fragt",
+      "praeteritum": "fragte",
+      "perfekt": "hat gefragt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-264-nachantworten",
+    "de_word": "nachantworten",
+    "article": "",
+    "ru_translation": "отвечать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachantworten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachantworten",
+      "praesens": "antwortet",
+      "praeteritum": "antwortete",
+      "perfekt": "hat geantwortet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-265-nachhelfen",
+    "de_word": "nachhelfen",
+    "article": "",
+    "ru_translation": "помогать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachhelfen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachhelfen",
+      "praesens": "hilft",
+      "praeteritum": "half",
+      "perfekt": "hat geholfen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-266-nachkaufen",
+    "de_word": "nachkaufen",
+    "article": "",
+    "ru_translation": "покупать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachkaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachkaufen",
+      "praesens": "kauft",
+      "praeteritum": "kaufte",
+      "perfekt": "hat gekauft"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-267-nachbezahlen",
+    "de_word": "nachbezahlen",
+    "article": "",
+    "ru_translation": "платить / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachbezahlen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachbezahlen",
+      "praesens": "bezahlt",
+      "praeteritum": "bezahlte",
+      "perfekt": "hat bezahlt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-268-nachfahren",
+    "de_word": "nachfahren",
+    "article": "",
+    "ru_translation": "ехать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachfahren\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachfahren",
+      "praesens": "fährt",
+      "praeteritum": "fuhr",
+      "perfekt": "ist gefahren"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-269-nachfliegen",
+    "de_word": "nachfliegen",
+    "article": "",
+    "ru_translation": "лететь / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachfliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachfliegen",
+      "praesens": "fliegt",
+      "praeteritum": "flog",
+      "perfekt": "ist geflogen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-270-nachlaufen",
+    "de_word": "nachlaufen",
+    "article": "",
+    "ru_translation": "бежать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachlaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachlaufen",
+      "praesens": "läuft",
+      "praeteritum": "lief",
+      "perfekt": "ist gelaufen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-271-nachessen",
+    "de_word": "nachessen",
+    "article": "",
+    "ru_translation": "есть / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachessen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachessen",
+      "praesens": "isst",
+      "praeteritum": "aß",
+      "perfekt": "hat gegessen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-272-nachtrinken",
+    "de_word": "nachtrinken",
+    "article": "",
+    "ru_translation": "пить / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachtrinken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachtrinken",
+      "praesens": "trinkt",
+      "praeteritum": "trank",
+      "perfekt": "hat getrunken"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-273-nachschlafen",
+    "de_word": "nachschlafen",
+    "article": "",
+    "ru_translation": "спать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachschlafen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachschlafen",
+      "praesens": "schläft",
+      "praeteritum": "schlief",
+      "perfekt": "hat geschlafen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-274-nachwarten",
+    "de_word": "nachwarten",
+    "article": "",
+    "ru_translation": "ждать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachwarten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachwarten",
+      "praesens": "wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-275-nachöffnen",
+    "de_word": "nachöffnen",
+    "article": "",
+    "ru_translation": "открывать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachöffnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachöffnen",
+      "praesens": "öffnet",
+      "praeteritum": "öffnete",
+      "perfekt": "hat geöffnet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-276-nachschließen",
+    "de_word": "nachschließen",
+    "article": "",
+    "ru_translation": "закрывать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachschließen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachschließen",
+      "praesens": "schließt",
+      "praeteritum": "schloss",
+      "perfekt": "hat geschlossen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-277-nachbeginnen",
+    "de_word": "nachbeginnen",
+    "article": "",
+    "ru_translation": "начинать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachbeginnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachbeginnen",
+      "praesens": "beginnt",
+      "praeteritum": "begann",
+      "perfekt": "hat begonnen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-278-nachenden",
+    "de_word": "nachenden",
+    "article": "",
+    "ru_translation": "заканчиваться / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nachenden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nachenden",
+      "praesens": "endet",
+      "praeteritum": "endete",
+      "perfekt": "hat geendet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-279-nacherzählen",
+    "de_word": "nacherzählen",
+    "article": "",
+    "ru_translation": "рассказывать / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nacherzählen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nacherzählen",
+      "praesens": "erzählt",
+      "praeteritum": "erzählte",
+      "perfekt": "hat erzählt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-280-nacherklären",
+    "de_word": "nacherklären",
+    "article": "",
+    "ru_translation": "объяснять / вариант с приставкой nach",
+    "example_de": "Ich möchte das Verb \"nacherklären\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "nacherklären",
+      "praesens": "erklärt",
+      "praeteritum": "erklärte",
+      "perfekt": "hat erklärt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-281-vorsein",
+    "de_word": "vorsein",
+    "article": "",
+    "ru_translation": "быть / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorsein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorsein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-282-vorhaben",
+    "de_word": "vorhaben",
+    "article": "",
+    "ru_translation": "иметь / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorhaben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorhaben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-283-vorwerden",
+    "de_word": "vorwerden",
+    "article": "",
+    "ru_translation": "становиться / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorwerden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorwerden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-284-vorgehen",
+    "de_word": "vorgehen",
+    "article": "",
+    "ru_translation": "идти / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorgehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorgehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-285-vorkommen",
+    "de_word": "vorkommen",
+    "article": "",
+    "ru_translation": "приходить / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorkommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorkommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-286-vormachen",
+    "de_word": "vormachen",
+    "article": "",
+    "ru_translation": "делать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vormachen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vormachen",
+      "praesens": "macht",
+      "praeteritum": "machte",
+      "perfekt": "hat gemacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-287-vorsagen",
+    "de_word": "vorsagen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorsagen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorsagen",
+      "praesens": "sagt",
+      "praeteritum": "sagte",
+      "perfekt": "hat gesagt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-288-vorsehen",
+    "de_word": "vorsehen",
+    "article": "",
+    "ru_translation": "видеть / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorsehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorsehen",
+      "praesens": "sieht",
+      "praeteritum": "sah",
+      "perfekt": "hat gesehen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-289-vorgeben",
+    "de_word": "vorgeben",
+    "article": "",
+    "ru_translation": "давать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorgeben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorgeben",
+      "praesens": "gibt",
+      "praeteritum": "gab",
+      "perfekt": "hat gegeben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-290-vornehmen",
+    "de_word": "vornehmen",
+    "article": "",
+    "ru_translation": "брать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vornehmen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vornehmen",
+      "praesens": "nimmt",
+      "praeteritum": "nahm",
+      "perfekt": "hat genommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-291-vorfinden",
+    "de_word": "vorfinden",
+    "article": "",
+    "ru_translation": "находить / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorfinden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorfinden",
+      "praesens": "findet",
+      "praeteritum": "fand",
+      "perfekt": "hat gefunden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-292-vorbleiben",
+    "de_word": "vorbleiben",
+    "article": "",
+    "ru_translation": "оставаться / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorbleiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorbleiben",
+      "praesens": "bleibt",
+      "praeteritum": "blieb",
+      "perfekt": "ist geblieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-293-vorliegen",
+    "de_word": "vorliegen",
+    "article": "",
+    "ru_translation": "лежать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorliegen",
+      "praesens": "liegt",
+      "praeteritum": "lag",
+      "perfekt": "hat gelegen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-294-vorstehen",
+    "de_word": "vorstehen",
+    "article": "",
+    "ru_translation": "стоять / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorstehen",
+      "praesens": "steht",
+      "praeteritum": "stand",
+      "perfekt": "hat gestanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-295-vordenken",
+    "de_word": "vordenken",
+    "article": "",
+    "ru_translation": "думать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vordenken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vordenken",
+      "praesens": "denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-296-vorwissen",
+    "de_word": "vorwissen",
+    "article": "",
+    "ru_translation": "знать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorwissen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorwissen",
+      "praesens": "weiß",
+      "praeteritum": "wusste",
+      "perfekt": "hat gewusst"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-297-vorsprechen",
+    "de_word": "vorsprechen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorsprechen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorsprechen",
+      "praesens": "spricht",
+      "praeteritum": "sprach",
+      "perfekt": "hat gesprochen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-298-vorlesen",
+    "de_word": "vorlesen",
+    "article": "",
+    "ru_translation": "читать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorlesen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorlesen",
+      "praesens": "liest",
+      "praeteritum": "las",
+      "perfekt": "hat gelesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-299-vorschreiben",
+    "de_word": "vorschreiben",
+    "article": "",
+    "ru_translation": "писать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorschreiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorschreiben",
+      "praesens": "schreibt",
+      "praeteritum": "schrieb",
+      "perfekt": "hat geschrieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-300-vorarbeiten",
+    "de_word": "vorarbeiten",
+    "article": "",
+    "ru_translation": "работать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorarbeiten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorarbeiten",
+      "praesens": "arbeitet",
+      "praeteritum": "arbeitete",
+      "perfekt": "hat gearbeitet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-301-vorlernen",
+    "de_word": "vorlernen",
+    "article": "",
+    "ru_translation": "учить / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorlernen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorlernen",
+      "praesens": "lernt",
+      "praeteritum": "lernte",
+      "perfekt": "hat gelernt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-302-vorverstehen",
+    "de_word": "vorverstehen",
+    "article": "",
+    "ru_translation": "понимать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorverstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorverstehen",
+      "praesens": "versteht",
+      "praeteritum": "verstand",
+      "perfekt": "hat verstanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-303-vorfragen",
+    "de_word": "vorfragen",
+    "article": "",
+    "ru_translation": "спрашивать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorfragen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorfragen",
+      "praesens": "fragt",
+      "praeteritum": "fragte",
+      "perfekt": "hat gefragt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-304-vorantworten",
+    "de_word": "vorantworten",
+    "article": "",
+    "ru_translation": "отвечать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorantworten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorantworten",
+      "praesens": "antwortet",
+      "praeteritum": "antwortete",
+      "perfekt": "hat geantwortet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-305-vorhelfen",
+    "de_word": "vorhelfen",
+    "article": "",
+    "ru_translation": "помогать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorhelfen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorhelfen",
+      "praesens": "hilft",
+      "praeteritum": "half",
+      "perfekt": "hat geholfen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-306-vorkaufen",
+    "de_word": "vorkaufen",
+    "article": "",
+    "ru_translation": "покупать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorkaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorkaufen",
+      "praesens": "kauft",
+      "praeteritum": "kaufte",
+      "perfekt": "hat gekauft"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-307-vorbezahlen",
+    "de_word": "vorbezahlen",
+    "article": "",
+    "ru_translation": "платить / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorbezahlen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorbezahlen",
+      "praesens": "bezahlt",
+      "praeteritum": "bezahlte",
+      "perfekt": "hat bezahlt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-308-vorfahren",
+    "de_word": "vorfahren",
+    "article": "",
+    "ru_translation": "ехать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorfahren\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorfahren",
+      "praesens": "fährt",
+      "praeteritum": "fuhr",
+      "perfekt": "ist gefahren"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-309-vorfliegen",
+    "de_word": "vorfliegen",
+    "article": "",
+    "ru_translation": "лететь / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorfliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorfliegen",
+      "praesens": "fliegt",
+      "praeteritum": "flog",
+      "perfekt": "ist geflogen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-310-vorlaufen",
+    "de_word": "vorlaufen",
+    "article": "",
+    "ru_translation": "бежать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorlaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorlaufen",
+      "praesens": "läuft",
+      "praeteritum": "lief",
+      "perfekt": "ist gelaufen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-311-voressen",
+    "de_word": "voressen",
+    "article": "",
+    "ru_translation": "есть / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"voressen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "voressen",
+      "praesens": "isst",
+      "praeteritum": "aß",
+      "perfekt": "hat gegessen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-312-vortrinken",
+    "de_word": "vortrinken",
+    "article": "",
+    "ru_translation": "пить / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vortrinken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vortrinken",
+      "praesens": "trinkt",
+      "praeteritum": "trank",
+      "perfekt": "hat getrunken"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-313-vorschlafen",
+    "de_word": "vorschlafen",
+    "article": "",
+    "ru_translation": "спать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorschlafen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorschlafen",
+      "praesens": "schläft",
+      "praeteritum": "schlief",
+      "perfekt": "hat geschlafen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-314-vorwarten",
+    "de_word": "vorwarten",
+    "article": "",
+    "ru_translation": "ждать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorwarten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorwarten",
+      "praesens": "wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-315-voröffnen",
+    "de_word": "voröffnen",
+    "article": "",
+    "ru_translation": "открывать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"voröffnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "voröffnen",
+      "praesens": "öffnet",
+      "praeteritum": "öffnete",
+      "perfekt": "hat geöffnet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-316-vorschließen",
+    "de_word": "vorschließen",
+    "article": "",
+    "ru_translation": "закрывать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorschließen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorschließen",
+      "praesens": "schließt",
+      "praeteritum": "schloss",
+      "perfekt": "hat geschlossen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-317-vorbeginnen",
+    "de_word": "vorbeginnen",
+    "article": "",
+    "ru_translation": "начинать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorbeginnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorbeginnen",
+      "praesens": "beginnt",
+      "praeteritum": "begann",
+      "perfekt": "hat begonnen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-318-vorenden",
+    "de_word": "vorenden",
+    "article": "",
+    "ru_translation": "заканчиваться / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorenden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorenden",
+      "praesens": "endet",
+      "praeteritum": "endete",
+      "perfekt": "hat geendet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-319-vorerzählen",
+    "de_word": "vorerzählen",
+    "article": "",
+    "ru_translation": "рассказывать / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorerzählen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorerzählen",
+      "praesens": "erzählt",
+      "praeteritum": "erzählte",
+      "perfekt": "hat erzählt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-320-vorerklären",
+    "de_word": "vorerklären",
+    "article": "",
+    "ru_translation": "объяснять / вариант с приставкой vor",
+    "example_de": "Ich möchte das Verb \"vorerklären\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "vorerklären",
+      "praesens": "erklärt",
+      "praeteritum": "erklärte",
+      "perfekt": "hat erklärt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-321-zusein",
+    "de_word": "zusein",
+    "article": "",
+    "ru_translation": "быть / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zusein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zusein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-322-zuhaben",
+    "de_word": "zuhaben",
+    "article": "",
+    "ru_translation": "иметь / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuhaben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuhaben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-323-zuwerden",
+    "de_word": "zuwerden",
+    "article": "",
+    "ru_translation": "становиться / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuwerden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuwerden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-324-zugehen",
+    "de_word": "zugehen",
+    "article": "",
+    "ru_translation": "идти / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zugehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zugehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-325-zukommen",
+    "de_word": "zukommen",
+    "article": "",
+    "ru_translation": "приходить / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zukommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zukommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-326-zumachen",
+    "de_word": "zumachen",
+    "article": "",
+    "ru_translation": "делать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zumachen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zumachen",
+      "praesens": "macht",
+      "praeteritum": "machte",
+      "perfekt": "hat gemacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-327-zusagen",
+    "de_word": "zusagen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zusagen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zusagen",
+      "praesens": "sagt",
+      "praeteritum": "sagte",
+      "perfekt": "hat gesagt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-328-zusehen",
+    "de_word": "zusehen",
+    "article": "",
+    "ru_translation": "видеть / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zusehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zusehen",
+      "praesens": "sieht",
+      "praeteritum": "sah",
+      "perfekt": "hat gesehen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-329-zugeben",
+    "de_word": "zugeben",
+    "article": "",
+    "ru_translation": "давать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zugeben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zugeben",
+      "praesens": "gibt",
+      "praeteritum": "gab",
+      "perfekt": "hat gegeben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-330-zunehmen",
+    "de_word": "zunehmen",
+    "article": "",
+    "ru_translation": "брать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zunehmen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zunehmen",
+      "praesens": "nimmt",
+      "praeteritum": "nahm",
+      "perfekt": "hat genommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-331-zufinden",
+    "de_word": "zufinden",
+    "article": "",
+    "ru_translation": "находить / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zufinden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zufinden",
+      "praesens": "findet",
+      "praeteritum": "fand",
+      "perfekt": "hat gefunden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-332-zubleiben",
+    "de_word": "zubleiben",
+    "article": "",
+    "ru_translation": "оставаться / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zubleiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zubleiben",
+      "praesens": "bleibt",
+      "praeteritum": "blieb",
+      "perfekt": "ist geblieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-333-zuliegen",
+    "de_word": "zuliegen",
+    "article": "",
+    "ru_translation": "лежать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuliegen",
+      "praesens": "liegt",
+      "praeteritum": "lag",
+      "perfekt": "hat gelegen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-334-zustehen",
+    "de_word": "zustehen",
+    "article": "",
+    "ru_translation": "стоять / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zustehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zustehen",
+      "praesens": "steht",
+      "praeteritum": "stand",
+      "perfekt": "hat gestanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-335-zudenken",
+    "de_word": "zudenken",
+    "article": "",
+    "ru_translation": "думать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zudenken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zudenken",
+      "praesens": "denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-336-zuwissen",
+    "de_word": "zuwissen",
+    "article": "",
+    "ru_translation": "знать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuwissen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuwissen",
+      "praesens": "weiß",
+      "praeteritum": "wusste",
+      "perfekt": "hat gewusst"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-337-zusprechen",
+    "de_word": "zusprechen",
+    "article": "",
+    "ru_translation": "говорить / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zusprechen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zusprechen",
+      "praesens": "spricht",
+      "praeteritum": "sprach",
+      "perfekt": "hat gesprochen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-338-zulesen",
+    "de_word": "zulesen",
+    "article": "",
+    "ru_translation": "читать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zulesen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zulesen",
+      "praesens": "liest",
+      "praeteritum": "las",
+      "perfekt": "hat gelesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-339-zuschreiben",
+    "de_word": "zuschreiben",
+    "article": "",
+    "ru_translation": "писать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuschreiben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuschreiben",
+      "praesens": "schreibt",
+      "praeteritum": "schrieb",
+      "perfekt": "hat geschrieben"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-340-zuarbeiten",
+    "de_word": "zuarbeiten",
+    "article": "",
+    "ru_translation": "работать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuarbeiten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuarbeiten",
+      "praesens": "arbeitet",
+      "praeteritum": "arbeitete",
+      "perfekt": "hat gearbeitet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-341-zulernen",
+    "de_word": "zulernen",
+    "article": "",
+    "ru_translation": "учить / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zulernen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zulernen",
+      "praesens": "lernt",
+      "praeteritum": "lernte",
+      "perfekt": "hat gelernt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-342-zuverstehen",
+    "de_word": "zuverstehen",
+    "article": "",
+    "ru_translation": "понимать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuverstehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuverstehen",
+      "praesens": "versteht",
+      "praeteritum": "verstand",
+      "perfekt": "hat verstanden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-343-zufragen",
+    "de_word": "zufragen",
+    "article": "",
+    "ru_translation": "спрашивать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zufragen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zufragen",
+      "praesens": "fragt",
+      "praeteritum": "fragte",
+      "perfekt": "hat gefragt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-344-zuantworten",
+    "de_word": "zuantworten",
+    "article": "",
+    "ru_translation": "отвечать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuantworten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuantworten",
+      "praesens": "antwortet",
+      "praeteritum": "antwortete",
+      "perfekt": "hat geantwortet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-345-zuhelfen",
+    "de_word": "zuhelfen",
+    "article": "",
+    "ru_translation": "помогать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuhelfen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuhelfen",
+      "praesens": "hilft",
+      "praeteritum": "half",
+      "perfekt": "hat geholfen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-346-zukaufen",
+    "de_word": "zukaufen",
+    "article": "",
+    "ru_translation": "покупать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zukaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zukaufen",
+      "praesens": "kauft",
+      "praeteritum": "kaufte",
+      "perfekt": "hat gekauft"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-347-zubezahlen",
+    "de_word": "zubezahlen",
+    "article": "",
+    "ru_translation": "платить / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zubezahlen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zubezahlen",
+      "praesens": "bezahlt",
+      "praeteritum": "bezahlte",
+      "perfekt": "hat bezahlt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-348-zufahren",
+    "de_word": "zufahren",
+    "article": "",
+    "ru_translation": "ехать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zufahren\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zufahren",
+      "praesens": "fährt",
+      "praeteritum": "fuhr",
+      "perfekt": "ist gefahren"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-349-zufliegen",
+    "de_word": "zufliegen",
+    "article": "",
+    "ru_translation": "лететь / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zufliegen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zufliegen",
+      "praesens": "fliegt",
+      "praeteritum": "flog",
+      "perfekt": "ist geflogen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-350-zulaufen",
+    "de_word": "zulaufen",
+    "article": "",
+    "ru_translation": "бежать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zulaufen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zulaufen",
+      "praesens": "läuft",
+      "praeteritum": "lief",
+      "perfekt": "ist gelaufen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-351-zuessen",
+    "de_word": "zuessen",
+    "article": "",
+    "ru_translation": "есть / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuessen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuessen",
+      "praesens": "isst",
+      "praeteritum": "aß",
+      "perfekt": "hat gegessen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-352-zutrinken",
+    "de_word": "zutrinken",
+    "article": "",
+    "ru_translation": "пить / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zutrinken\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zutrinken",
+      "praesens": "trinkt",
+      "praeteritum": "trank",
+      "perfekt": "hat getrunken"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-353-zuschlafen",
+    "de_word": "zuschlafen",
+    "article": "",
+    "ru_translation": "спать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuschlafen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuschlafen",
+      "praesens": "schläft",
+      "praeteritum": "schlief",
+      "perfekt": "hat geschlafen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-354-zuwarten",
+    "de_word": "zuwarten",
+    "article": "",
+    "ru_translation": "ждать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuwarten\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuwarten",
+      "praesens": "wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-355-zuöffnen",
+    "de_word": "zuöffnen",
+    "article": "",
+    "ru_translation": "открывать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuöffnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuöffnen",
+      "praesens": "öffnet",
+      "praeteritum": "öffnete",
+      "perfekt": "hat geöffnet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-356-zuschließen",
+    "de_word": "zuschließen",
+    "article": "",
+    "ru_translation": "закрывать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuschließen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuschließen",
+      "praesens": "schließt",
+      "praeteritum": "schloss",
+      "perfekt": "hat geschlossen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-357-zubeginnen",
+    "de_word": "zubeginnen",
+    "article": "",
+    "ru_translation": "начинать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zubeginnen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zubeginnen",
+      "praesens": "beginnt",
+      "praeteritum": "begann",
+      "perfekt": "hat begonnen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-358-zuenden",
+    "de_word": "zuenden",
+    "article": "",
+    "ru_translation": "заканчиваться / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuenden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuenden",
+      "praesens": "endet",
+      "praeteritum": "endete",
+      "perfekt": "hat geendet"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-359-zuerzählen",
+    "de_word": "zuerzählen",
+    "article": "",
+    "ru_translation": "рассказывать / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuerzählen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuerzählen",
+      "praesens": "erzählt",
+      "praeteritum": "erzählte",
+      "perfekt": "hat erzählt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-360-zuerklären",
+    "de_word": "zuerklären",
+    "article": "",
+    "ru_translation": "объяснять / вариант с приставкой zu",
+    "example_de": "Ich möchte das Verb \"zuerklären\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zuerklären",
+      "praesens": "erklärt",
+      "praeteritum": "erklärte",
+      "perfekt": "hat erklärt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-361-zurücksein",
+    "de_word": "zurücksein",
+    "article": "",
+    "ru_translation": "быть / вариант с приставкой zurück",
+    "example_de": "Ich möchte das Verb \"zurücksein\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zurücksein",
+      "praesens": "ist",
+      "praeteritum": "war",
+      "perfekt": "ist gewesen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-362-zurückhaben",
+    "de_word": "zurückhaben",
+    "article": "",
+    "ru_translation": "иметь / вариант с приставкой zurück",
+    "example_de": "Ich möchte das Verb \"zurückhaben\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zurückhaben",
+      "praesens": "hat",
+      "praeteritum": "hatte",
+      "perfekt": "hat gehabt"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-363-zurückwerden",
+    "de_word": "zurückwerden",
+    "article": "",
+    "ru_translation": "становиться / вариант с приставкой zurück",
+    "example_de": "Ich möchte das Verb \"zurückwerden\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zurückwerden",
+      "praesens": "wird",
+      "praeteritum": "wurde",
+      "perfekt": "ist geworden"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-364-zurückgehen",
+    "de_word": "zurückgehen",
+    "article": "",
+    "ru_translation": "идти / вариант с приставкой zurück",
+    "example_de": "Ich möchte das Verb \"zurückgehen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zurückgehen",
+      "praesens": "geht",
+      "praeteritum": "ging",
+      "perfekt": "ist gegangen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  },
+  {
+    "id": "verb-365-zurückkommen",
+    "de_word": "zurückkommen",
+    "article": "",
+    "ru_translation": "приходить / вариант с приставкой zurück",
+    "example_de": "Ich möchte das Verb \"zurückkommen\" richtig benutzen.",
+    "example_ru_optional": "Я хочу правильно использовать этот глагол.",
+    "forms": {
+      "infinitive": "zurückkommen",
+      "praesens": "kommt",
+      "praeteritum": "kam",
+      "perfekt": "ist gekommen"
+    },
+    "tags": [
+      "verb"
+    ],
+    "level": "VERBS",
+    "source": "generated-seed-list"
+  }
+]

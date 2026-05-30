@@ -79,9 +79,17 @@ export async function renderWallpaperPng({ width, height, word, dateKey, theme }
   const cardY = Math.round(centerY + height * 0.19);
   const cardPad = Math.round(width * 0.035);
   const cardW = width - pad * 2;
+  const formLines = word.forms
+    ? [
+        `Präsens: ${word.forms.praesens}`,
+        `Präteritum: ${word.forms.praeteritum}`,
+        `Perfekt: ${word.forms.perfekt}`,
+      ]
+    : [];
   const exampleLines = wrapText(word.example_de, 30);
   const exampleRuLines = word.example_ru_optional ? wrapText(word.example_ru_optional, 36) : [];
-  const cardH = Math.round(cardPad * 2 + exampleLines.length * exampleSize * 1.35 + exampleRuLines.length * exampleRuSize * 1.35 + 28);
+  const formBlockH = formLines.length ? formLines.length * exampleRuSize * 1.35 + 24 : 0;
+  const cardH = Math.round(cardPad * 2 + formBlockH + exampleLines.length * exampleSize * 1.35 + exampleRuLines.length * exampleRuSize * 1.35 + 28);
 
   const svg = `
   <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
@@ -97,8 +105,9 @@ export async function renderWallpaperPng({ width, height, word, dateKey, theme }
 
     <rect x="${pad}" y="${cardY}" width="${cardW}" height="${cardH}" rx="32" fill="${theme.panel}"/>
     <g>
-      ${textLines(exampleLines, pad + cardPad, cardY + cardPad + exampleSize, exampleSize, theme.text, 700)}
-      ${textLines(exampleRuLines, pad + cardPad, cardY + cardPad + exampleSize + exampleLines.length * exampleSize * 1.35 + 24, exampleRuSize, theme.muted, 400)}
+      ${textLines(formLines, pad + cardPad, cardY + cardPad + exampleRuSize, exampleRuSize, theme.muted, 700)}
+      ${textLines(exampleLines, pad + cardPad, cardY + cardPad + formBlockH + exampleSize, exampleSize, theme.text, 700)}
+      ${textLines(exampleRuLines, pad + cardPad, cardY + cardPad + formBlockH + exampleSize + exampleLines.length * exampleSize * 1.35 + 24, exampleRuSize, theme.muted, 400)}
     </g>
 
     <text x="${pad}" y="${height - Math.round(height * 0.055)}" font-size="${fontSize(width, 0.028)}" fill="${theme.subtle}">${escapeHtml(dateKey)}</text>
