@@ -7,6 +7,14 @@ export const THEMES = {
     subtle: "rgba(243,244,246,0.42)",
     accent: "#ff7a2f",
   },
+  light: {
+    bg: "#f4f1ea",
+    panel: "#ffffff",
+    text: "#171717",
+    muted: "rgba(23,23,23,0.68)",
+    subtle: "rgba(23,23,23,0.42)",
+    accent: "#ff7a2f",
+  },
   oled: {
     bg: "#000000",
     panel: "#080808",
