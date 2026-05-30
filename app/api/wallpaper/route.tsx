@@ -2,7 +2,6 @@ import { NextRequest } from "next/server";
 import crypto from "node:crypto";
 import { getSize } from "@/lib/devices";
 import { getTheme } from "@/lib/themes";
-import { safeTimeZone } from "@/lib/date";
 import { getWordOfDay, safeTrack } from "@/lib/words";
 import { renderWallpaperPng } from "@/lib/image";
 
@@ -14,11 +13,10 @@ export async function GET(req: NextRequest) {
   const size = getSize(params);
   const themeKey = params.get("theme") || "dark";
   const theme = getTheme(themeKey);
-  const timeZone = safeTimeZone(params.get("tz"));
   const seed = "global";
   const track = safeTrack(params.get("track") || params.get("level"));
 
-  const { word, dateKey } = getWordOfDay(timeZone, seed, track);
+  const { word, dateKey } = getWordOfDay(seed, track);
   const png = await renderWallpaperPng({
     width: size.width,
     height: size.height,

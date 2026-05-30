@@ -9,14 +9,13 @@ export function SettingsForm() {
   const [device, setDevice] = useState("iphone_16_pro");
   const [theme, setTheme] = useState("dark");
   const [track, setTrack] = useState("A1");
-  const [tz, setTz] = useState("Europe/Moscow");
   const [copied, setCopied] = useState(false);
 
   const url = useMemo(() => {
-    const p = new URLSearchParams({ device, theme, track, tz });
+    const p = new URLSearchParams({ device, theme, track });
     const origin = typeof window === "undefined" ? "" : window.location.origin;
     return `${origin}/api/wallpaper?${p.toString()}`;
-  }, [device, theme, track, tz]);
+  }, [device, theme, track]);
 
   async function copy() {
     await navigator.clipboard.writeText(url);
@@ -45,14 +44,6 @@ export function SettingsForm() {
           <label>Уровень</label>
           <select value={track} onChange={(e) => setTrack(e.target.value)}>
             {TRACKS.map((item) => <option key={item.value} value={item.value}>{item.label}</option>)}
-          </select>
-        </div>
-        <div>
-          <label>Часовой пояс</label>
-          <select value={tz} onChange={(e) => setTz(e.target.value)}>
-            <option value="Europe/Moscow">Europe/Moscow</option>
-            <option value="Europe/Berlin">Europe/Berlin</option>
-            <option value="UTC">UTC</option>
           </select>
         </div>
       </div>

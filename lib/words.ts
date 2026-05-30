@@ -1,6 +1,6 @@
 import words from "@/data/words.json";
 import verbs from "@/data/verbs.json";
-import { getLocalDateKey } from "./date";
+import { getDailyReleaseDateKey } from "./date";
 
 export type Word = {
   id: string;
@@ -59,8 +59,8 @@ const fallbackWord: Word = {
   source: "fallback",
 };
 
-export function getWordOfDay(timeZone: string, seed = "default", track: Track = "A1") {
-  const dateKey = getLocalDateKey(timeZone);
+export function getWordOfDay(seed = "default", track: Track = "A1") {
+  const dateKey = getDailyReleaseDateKey();
   const source = track === "VERBS" ? (verbs as Word[]) : (words as Word[]).filter((word) => word.level === track);
   const list = source.length ? source : [fallbackWord];
 

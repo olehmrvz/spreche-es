@@ -14,7 +14,7 @@ Open `http://localhost:3000`.
 PNG endpoint:
 
 ```txt
-/api/wallpaper?device=iphone_16_pro&theme=dark&track=A1&tz=Europe/Moscow
+/api/wallpaper?device=iphone_16_pro&theme=dark&track=A1
 
 Tracks:
 
@@ -25,6 +25,8 @@ Tracks:
 - `C1`
 - `C2`
 - `VERBS`
+
+Word changes globally every day at 07:00 Europe/Berlin time.
 ```
 
 ## Word data
