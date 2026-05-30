@@ -15,7 +15,7 @@ export async function GET(req: NextRequest) {
   const themeKey = params.get("theme") || "dark";
   const theme = getTheme(themeKey);
   const timeZone = safeTimeZone(params.get("tz"));
-  const seed = params.get("seed") || "default";
+  const seed = "global";
 
   const { word, dateKey } = getWordOfDay(timeZone, seed);
   const png = await renderWallpaperPng({

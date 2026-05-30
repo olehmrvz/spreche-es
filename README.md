@@ -14,7 +14,7 @@ Open `http://localhost:3000`.
 PNG endpoint:
 
 ```txt
-/api/wallpaper?device=iphone_16_pro&theme=dark&tz=Europe/Moscow&seed=default
+/api/wallpaper?device=iphone_16_pro&theme=dark&tz=Europe/Moscow
 ```
 
 ## Word data

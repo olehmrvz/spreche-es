@@ -8,14 +8,13 @@ export function SettingsForm() {
   const [device, setDevice] = useState("iphone_16_pro");
   const [theme, setTheme] = useState("dark");
   const [tz, setTz] = useState("Europe/Moscow");
-  const [seed, setSeed] = useState("default");
   const [copied, setCopied] = useState(false);
 
   const url = useMemo(() => {
-    const p = new URLSearchParams({ device, theme, tz, seed });
+    const p = new URLSearchParams({ device, theme, tz });
     const origin = typeof window === "undefined" ? "" : window.location.origin;
     return `${origin}/api/wallpaper?${p.toString()}`;
-  }, [device, theme, tz, seed]);
+  }, [device, theme, tz]);
 
   async function copy() {
     await navigator.clipboard.writeText(url);
@@ -47,10 +46,6 @@ export function SettingsForm() {
             <option value="Europe/Berlin">Europe/Berlin</option>
             <option value="UTC">UTC</option>
           </select>
-        </div>
-        <div>
-          <label>Seed</label>
-          <input value={seed} onChange={(e) => setSeed(e.target.value)} />
         </div>
       </div>
 
