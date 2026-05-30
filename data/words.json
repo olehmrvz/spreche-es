@@ -1,0 +1,62 @@
+[
+  {
+    "id": "atem",
+    "de_word": "Atem",
+    "article": "der",
+    "ru_translation": "дыхание",
+    "ipa_optional": "ˈaːtəm",
+    "example_de": "Ich brauche einen tiefen Atemzug.",
+    "example_ru_optional": "Мне нужен глубокий вдох.",
+    "tags": ["body", "basic"],
+    "level": "A2",
+    "source": "manual"
+  },
+  {
+    "id": "mut",
+    "de_word": "Mut",
+    "article": "der",
+    "ru_translation": "смелость",
+    "ipa_optional": "muːt",
+    "example_de": "Sie hatte den Mut, neu anzufangen.",
+    "example_ru_optional": "У неё хватило смелости начать заново.",
+    "tags": ["abstract"],
+    "level": "B1",
+    "source": "manual"
+  },
+  {
+    "id": "sehnsucht",
+    "de_word": "Sehnsucht",
+    "article": "die",
+    "ru_translation": "тоска, сильное желание",
+    "ipa_optional": "ˈzeːnˌzʊxt",
+    "example_de": "Manchmal spüre ich Sehnsucht nach dem Meer.",
+    "example_ru_optional": "Иногда я чувствую тоску по морю.",
+    "tags": ["emotion"],
+    "level": "B2",
+    "source": "manual"
+  },
+  {
+    "id": "alltag",
+    "de_word": "Alltag",
+    "article": "der",
+    "ru_translation": "повседневность",
+    "ipa_optional": "ˈaltaːk",
+    "example_de": "Im Alltag vergesse ich oft, Pausen zu machen.",
+    "example_ru_optional": "В повседневности я часто забываю делать паузы.",
+    "tags": ["life"],
+    "level": "B1",
+    "source": "manual"
+  },
+  {
+    "id": "entscheidung",
+    "de_word": "Entscheidung",
+    "article": "die",
+    "ru_translation": "решение",
+    "ipa_optional": "ɛntˈʃaɪ̯dʊŋ",
+    "example_de": "Diese Entscheidung war nicht leicht.",
+    "example_ru_optional": "Это решение было нелёгким.",
+    "tags": ["abstract"],
+    "level": "A2",
+    "source": "manual"
+  }
+]
