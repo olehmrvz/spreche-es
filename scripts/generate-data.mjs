@@ -23,26 +23,38 @@ const LEVELS = {
   ]
 };
 
-const examples = {
-  A1: "Das Wort ist heute sehr nützlich.",
-  A2: "Dieses Wort höre ich oft im Alltag.",
-  B1: "Dieses Wort hilft mir, genauer zu sprechen.",
-  B2: "Mit diesem Wort kann ich meine Meinung präziser ausdrücken.",
-  C1: "Dieses Wort eignet sich gut für differenzierte Argumentation.",
-  C2: "Dieses Wort verleiht dem Ausdruck mehr Nuance und Präzision."
-};
+function buildExample(article, de, ru, level) {
+  const title = [article, de].filter(Boolean).join(" ");
+  if (!article) {
+    return {
+      de: `Heute benutze ich "${de}" in einem kurzen Satz.`,
+      ru: `Сегодня я использую «${ru}» в коротком предложении.`
+    };
+  }
+  if (level === "A1" || level === "A2") {
+    return {
+      de: `${title} ist heute mein neues Wort.`,
+      ru: `${ru[0].toUpperCase()}${ru.slice(1)} — моё новое слово на сегодня.`
+    };
+  }
+  return {
+    de: `Im Gespräch benutze ich ${title}, wenn ich über "${ru}" spreche.`,
+    ru: `В разговоре я использую «${title}», когда говорю про «${ru}».`
+  };
+}
 
 const words = [];
 for (const [level, base] of Object.entries(LEVELS)) {
   for (let i = 0; i < 365; i++) {
     const [de, article, ru] = base[i % base.length];
+    const example = buildExample(article, de, ru, level);
     words.push({
       id: `${level.toLowerCase()}-${String(i + 1).padStart(3, "0")}-${de.toLowerCase().replaceAll(" ", "-")}`,
       de_word: de,
       article,
       ru_translation: ru,
-      example_de: examples[level],
-      example_ru_optional: "Это слово полезно для ежедневной практики.",
+      example_de: example.de,
+      example_ru_optional: example.ru,
       tags: ["daily", level.toLowerCase()],
       level,
       source: "generated-seed-list"
@@ -64,8 +76,8 @@ for (let i = 0; i < 365; i++) {
     de_word: display,
     article: "",
     ru_translation: prefix ? `${ru} / вариант с приставкой ${prefix}` : ru,
-    example_de: `Ich möchte das Verb "${display}" richtig benutzen.`,
-    example_ru_optional: "Я хочу правильно использовать этот глагол.",
+    example_de: `Heute übe ich das Verb "${display}".`,
+    example_ru_optional: `Сегодня я тренирую глагол «${display}» — «${ru}».`,
     forms: { infinitive: display, praesens: pres, praeteritum: pret, perfekt: perf },
     tags: ["verb"],
     level: "VERBS",
