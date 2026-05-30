@@ -1,6 +1,26 @@
 import { Resvg } from "@resvg/resvg-js";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 import type { Word } from "./words";
 import { escapeHtml } from "./escape";
+
+let cachedFontCss: string | null = null;
+
+function getFontCss() {
+  if (cachedFontCss) return cachedFontCss;
+  const fontPath = join(process.cwd(), "public", "fonts", "NotoSans.ttf");
+  const fontBase64 = readFileSync(fontPath).toString("base64");
+  cachedFontCss = `
+    <style>
+      @font-face {
+        font-family: 'NotoSansLocal';
+        src: url(data:font/truetype;charset=utf-8;base64,${fontBase64}) format('truetype');
+        font-weight: 100 900;
+      }
+      text { font-family: 'NotoSansLocal', sans-serif; }
+    </style>`;
+  return cachedFontCss;
+}
 
 type Theme = {
   bg: string;
@@ -65,23 +85,24 @@ export async function renderWallpaperPng({ width, height, word, dateKey, theme }
 
   const svg = `
   <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
+    <defs>${getFontCss()}</defs>
     <rect width="100%" height="100%" fill="${theme.bg}"/>
     <circle cx="${Math.round(width * 0.18)}" cy="${Math.round(height * 0.08)}" r="${Math.round(width * 0.55)}" fill="#7c5cff" opacity="0.08"/>
     <circle cx="${Math.round(width * 0.86)}" cy="${Math.round(height * 0.16)}" r="${Math.round(width * 0.42)}" fill="${theme.accent}" opacity="0.07"/>
 
     <rect x="${pad}" y="${centerY}" width="64" height="6" rx="3" fill="${theme.accent}"/>
-    <text x="${pad}" y="${centerY + 105}" font-family="Arial, sans-serif" font-size="${titleSize}" font-weight="700" fill="${theme.text}" letter-spacing="-2">${escapeHtml(title)}</text>
-    <text x="${pad}" y="${centerY + 105 + titleSize * 1.15}" font-family="Arial, sans-serif" font-size="${ruSize}" font-weight="700" fill="${theme.muted}">${escapeHtml(word.ru_translation)}</text>
-    ${word.ipa_optional ? `<text x="${pad}" y="${centerY + 105 + titleSize * 1.15 + ruSize * 1.25}" font-family="Arial, sans-serif" font-size="${ipaSize}" fill="${theme.subtle}">[${escapeHtml(word.ipa_optional)}]</text>` : ""}
+    <text x="${pad}" y="${centerY + 105}" font-size="${titleSize}" font-weight="700" fill="${theme.text}" letter-spacing="-2">${escapeHtml(title)}</text>
+    <text x="${pad}" y="${centerY + 105 + titleSize * 1.15}" font-size="${ruSize}" font-weight="700" fill="${theme.muted}">${escapeHtml(word.ru_translation)}</text>
+    ${word.ipa_optional ? `<text x="${pad}" y="${centerY + 105 + titleSize * 1.15 + ruSize * 1.25}" font-size="${ipaSize}" fill="${theme.subtle}">[${escapeHtml(word.ipa_optional)}]</text>` : ""}
 
     <rect x="${pad}" y="${cardY}" width="${cardW}" height="${cardH}" rx="32" fill="${theme.panel}"/>
-    <g font-family="Arial, sans-serif">
+    <g>
       ${textLines(exampleLines, pad + cardPad, cardY + cardPad + exampleSize, exampleSize, theme.text, 700)}
       ${textLines(exampleRuLines, pad + cardPad, cardY + cardPad + exampleSize + exampleLines.length * exampleSize * 1.35 + 24, exampleRuSize, theme.muted, 400)}
     </g>
 
-    <text x="${pad}" y="${height - Math.round(height * 0.055)}" font-family="Arial, sans-serif" font-size="${fontSize(width, 0.028)}" fill="${theme.subtle}">${escapeHtml(dateKey)}</text>
-    <text x="${width - pad}" y="${height - Math.round(height * 0.055)}" text-anchor="end" font-family="Arial, sans-serif" font-size="${fontSize(width, 0.028)}" fill="${theme.subtle}">${escapeHtml(word.level || "")}</text>
+    <text x="${pad}" y="${height - Math.round(height * 0.055)}" font-size="${fontSize(width, 0.028)}" fill="${theme.subtle}">${escapeHtml(dateKey)}</text>
+    <text x="${width - pad}" y="${height - Math.round(height * 0.055)}" text-anchor="end" font-size="${fontSize(width, 0.028)}" fill="${theme.subtle}">${escapeHtml(word.level || "")}</text>
   </svg>`;
 
   return new Resvg(svg, { fitTo: { mode: "width", value: width } }).render().asPng();
