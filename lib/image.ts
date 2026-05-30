@@ -69,11 +69,13 @@ export async function renderWallpaperPng({ width, height, word, theme }: RenderO
   const exampleSize = fontSize(width, 0.043);
   const exampleRuSize = fontSize(width, 0.036);
 
-  const centerY = Math.round(height * 0.31);
+  const topY = Math.round(height * 0.285);
   const translationMaxChars = title.length > 16 ? 24 : 28;
   const translationLines = wrapText(word.ru_translation, translationMaxChars, 2);
   const translationBlockH = translationLines.length * ruSize * 1.24;
-  const cardY = Math.round(centerY + 105 + titleSize * 1.18 + translationBlockH + height * 0.085);
+  const titleY = topY + 82;
+  const translationY = titleY + titleSize * 1.12;
+  const cardY = Math.round(translationY + translationBlockH + height * 0.045);
   const cardPad = Math.round(width * 0.035);
   const cardW = width - pad * 2;
   const formLines = word.forms
@@ -99,10 +101,10 @@ export async function renderWallpaperPng({ width, height, word, theme }: RenderO
       <line x1="${pad}" y1="${Math.round(height * 0.12)}" x2="${pad}" y2="${Math.round(height * 0.88)}" stroke="${theme.subtle}" stroke-width="1"/>
       <line x1="${width - pad}" y1="${Math.round(height * 0.12)}" x2="${width - pad}" y2="${Math.round(height * 0.88)}" stroke="${theme.subtle}" stroke-width="1"/>
     </g>
-    <text x="${pad}" y="${centerY - 42}" font-family="Noto Sans" font-size="${fontSize(width, 0.028)}" font-weight="700" fill="${theme.accent}" letter-spacing="3">SPRECHE ES</text>
-    <rect x="${pad}" y="${centerY}" width="64" height="6" rx="3" fill="${theme.accent}"/>
-    <text x="${pad}" y="${centerY + 105}" font-family="Noto Sans" font-size="${titleSize}" font-weight="700" fill="${theme.text}" letter-spacing="-1.5">${escapeHtml(title)}</text>
-    ${textLines(translationLines, pad, centerY + 105 + titleSize * 1.18, ruSize, theme.muted, 700, 1.24)}
+    <text x="${pad}" y="${topY - 34}" font-family="Noto Sans" font-size="${fontSize(width, 0.026)}" font-weight="700" fill="${theme.accent}" letter-spacing="3">SPRECHE ES</text>
+    <rect x="${pad}" y="${topY}" width="56" height="5" rx="3" fill="${theme.accent}"/>
+    <text x="${pad}" y="${titleY}" font-family="Noto Sans" font-size="${titleSize}" font-weight="700" fill="${theme.text}" letter-spacing="-1.5">${escapeHtml(title)}</text>
+    ${textLines(translationLines, pad, translationY, ruSize, theme.muted, 700, 1.24)}
 
     <rect x="${pad}" y="${cardY}" width="${cardW}" height="${cardH}" rx="32" fill="${theme.panel}"/>
     <rect x="${pad}" y="${cardY}" width="${cardW}" height="${cardH}" rx="32" fill="none" stroke="${theme.subtle}" stroke-width="1" opacity="0.28"/>
