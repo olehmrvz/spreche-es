@@ -26,7 +26,7 @@ Tracks:
 - `C2`
 - `VERBS`
 
-Word changes globally every day at 07:00 Europe/Berlin time.
+Word changes globally twice a day at 07:00 and 19:00 Europe/Berlin time.
 ```
 
 ## Word data

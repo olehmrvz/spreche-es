@@ -1,5 +1,5 @@
 const EUROPE_TIME_ZONE = "Europe/Berlin";
-const RELEASE_HOUR = 7;
+const RELEASE_HOURS = [7, 19];
 
 export function getDailyReleaseDateKey() {
   const now = new Date();
@@ -19,7 +19,14 @@ export function getDailyReleaseDateKey() {
   const hour = Number(get("hour"));
 
   const releaseDate = new Date(Date.UTC(year, month - 1, day));
-  if (hour < RELEASE_HOUR) releaseDate.setUTCDate(releaseDate.getUTCDate() - 1);
+  let slot = "evening";
 
-  return releaseDate.toISOString().slice(0, 10);
+  if (hour < RELEASE_HOURS[0]) {
+    releaseDate.setUTCDate(releaseDate.getUTCDate() - 1);
+    slot = "evening";
+  } else if (hour < RELEASE_HOURS[1]) {
+    slot = "morning";
+  }
+
+  return `${releaseDate.toISOString().slice(0, 10)}-${slot}`;
 }
