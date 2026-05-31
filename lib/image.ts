@@ -83,7 +83,7 @@ export async function renderWallpaperPng({ width, height, word, theme }: RenderO
   const cardW = width - contentX - pad;
   const formLines = word.forms
     ? [
-        `Präsens: ${word.forms.praesens}`,
+        `Präsens: ${word.forms.praesens || word.forms.praesens_er_sie_es || ""}`,
         `Präteritum: ${word.forms.praeteritum}`,
         `Perfekt: ${word.forms.perfekt}`,
       ]

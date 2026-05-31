@@ -14,8 +14,11 @@ export type Word = {
   level?: string;
   source?: string;
   forms?: {
-    infinitive: string;
-    praesens: string;
+    infinitive?: string;
+    praesens?: string;
+    praesens_ich?: string;
+    praesens_du?: string;
+    praesens_er_sie_es?: string;
     praeteritum: string;
     perfekt: string;
   };
