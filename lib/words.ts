@@ -9,6 +9,7 @@ export type Word = {
   ru_translation: string;
   ipa_optional?: string;
   example_de: string;
+  example_ru?: string;
   example_ru_optional?: string;
   tags?: string[];
   level?: string;
