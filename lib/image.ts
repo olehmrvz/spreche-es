@@ -123,15 +123,14 @@ export async function renderWallpaperPng({ width, height, word, theme }: RenderO
         `Perfekt: ${word.forms.perfekt}`,
       ]
     : [];
-  const exampleRu = word.example_ru || word.example_ru_optional || "";
-  const exampleLines = wrapText(word.example_de, 34, 3);
-  const fittedExampleRu = exampleRu
-    ? fitWrappedText(exampleRu, exampleRuSize, 38, 3, fontSize(width, 0.03))
-    : { size: exampleRuSize, lines: [] };
+  const exampleRu = word.example_ru || word.example_ru_optional || word.ru_translation;
+  const exampleLines = wrapText(word.example_de, 36, 2);
+  const fittedExampleRu = fitWrappedText(exampleRu, exampleRuSize, 40, 4, fontSize(width, 0.029));
   const exampleRuLines = fittedExampleRu.lines;
   const fittedExampleRuSize = fittedExampleRu.size;
   const formBlockH = formLines.length ? formLines.length * exampleRuSize * 1.35 + 24 : 0;
-  const cardH = Math.round(cardPad * 2 + formBlockH + exampleLines.length * exampleSize * 1.35 + exampleRuLines.length * fittedExampleRuSize * 1.3 + 30);
+  const exampleRuY = cardY + cardPad + formBlockH + exampleSize + exampleLines.length * exampleSize * 1.32 + 26;
+  const cardH = Math.round(cardPad * 2 + formBlockH + exampleLines.length * exampleSize * 1.32 + exampleRuLines.length * fittedExampleRuSize * 1.28 + 34);
 
   const svg = `
   <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
@@ -146,8 +145,8 @@ export async function renderWallpaperPng({ width, height, word, theme }: RenderO
     <rect x="${contentX}" y="${cardY}" width="${cardW}" height="${cardH}" rx="28" fill="none" stroke="${theme.subtle}" stroke-width="1" opacity="0.22"/>
     <g>
       ${textLines(formLines, contentX + cardPad, cardY + cardPad + exampleRuSize, exampleRuSize, theme.muted, 700)}
-      ${textLines(exampleLines, contentX + cardPad, cardY + cardPad + formBlockH + exampleSize, exampleSize, theme.text, 700)}
-      ${textLines(exampleRuLines, contentX + cardPad, cardY + cardPad + formBlockH + exampleSize + exampleLines.length * exampleSize * 1.35 + 22, fittedExampleRuSize, theme.muted, 400, 1.3)}
+      ${textLines(exampleLines, contentX + cardPad, cardY + cardPad + formBlockH + exampleSize, exampleSize, theme.text, 700, 1.32)}
+      ${textLines(exampleRuLines, contentX + cardPad, exampleRuY, fittedExampleRuSize, theme.muted, 500, 1.28)}
     </g>
 
   </svg>`;

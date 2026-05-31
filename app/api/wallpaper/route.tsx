@@ -14,7 +14,7 @@ export async function GET(req: NextRequest) {
   const themeKey = params.get("theme") || "dark";
   const theme = getTheme(themeKey);
   const seed = "global";
-  const designVersion = "3";
+  const designVersion = "4";
   const track = safeTrack(params.get("track") || params.get("level"));
 
   const { word, dateKey } = getWordOfDay(seed, track);

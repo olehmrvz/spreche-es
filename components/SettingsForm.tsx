@@ -12,7 +12,7 @@ export function SettingsForm() {
   const [copied, setCopied] = useState(false);
 
   const url = useMemo(() => {
-    const p = new URLSearchParams({ device, theme, track, v: "3" });
+    const p = new URLSearchParams({ device, theme, track, v: "4" });
     const origin = typeof window === "undefined" ? "" : window.location.origin;
     return `${origin}/api/wallpaper?${p.toString()}`;
   }, [device, theme, track]);
